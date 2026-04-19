@@ -172,3 +172,86 @@ p_eq_free= wtp_max - wtp_slope * q_eq_free
 q_eq_zoning=(wtp_max-wta_min-zoning_tax)/(wtp_slope+wta_slope)
 p_eq_zoning=wtp_max-wtp_slope*q_eq_zoning
 
+print(f"Free market eq:  Q={q_eq_free:,.0f}, P=${p_eq_free:,.0f}/mo")
+print(f"Zoning eq:       Q={q_eq_zoning:,.0f}, P=${p_eq_zoning:,.0f}/mo")
+print(f"Units lost:      {q_eq_free - q_eq_zoning:,.0f}")
+
+#make plot
+q_plot=np.linspace(0, q_eq_free*1.3, 300)
+demand_plot=wtp_max-wtp_slope*q_plot
+supply_f_plot=wta_min+wta_slope*q_plot
+supply_z_plot=supply_f_plot+zoning_tax
+
+fig4, ax4=plt.subplots(figsize=(10, 8))
+
+ax4.plot(q_plot, demand_plot, color='steelblue', linewidth=2.5,
+         label='Demand (Willingness to Pay)')
+ax4.plot(q_plot, supply_f_plot, color='green', linewidth=2.5,
+         label='Supply — Free Market')
+ax4.plot(q_plot, supply_z_plot, color='red', linewidth=2.5,
+         linestyle='--', label='Supply — Zoning Restricted')
+
+ax4.plot(q_eq_free,   p_eq_free,   'go', markersize=10, zorder=5)
+ax4.plot(q_eq_zoning, p_eq_zoning, 'ro', markersize=10, zorder=5)
+
+ax4.plot([q_eq_free, q_eq_free], [0, p_eq_free], 'g--', linewidth=1, alpha=0.5)
+ax4.plot([0, q_eq_free], [p_eq_free, p_eq_free], 'g--', linewidth=1, alpha=0.5)
+ax4.plot([q_eq_zoning, q_eq_zoning], [0, p_eq_zoning], 
+         'r--', linewidth=1, alpha=0.5)
+ax4.plot([0, q_eq_zoning], [p_eq_zoning, p_eq_zoning],
+         'r--', linewidth=1, alpha=0.5)
+
+ax4.annotate(f'Free Market Eq.\nP*=${p_eq_free:,.0f}  Q*={q_eq_free:,.0f}',
+             xy=(q_eq_free, p_eq_free),
+             xytext=(q_eq_free * 1.05, p_eq_free - 150),
+             fontsize=9, color='green',
+             arrowprops=dict(arrowstyle='->', color='green', lw=1.5))
+
+ax4.annotate(f'Zoning Eq.\nP*=${p_eq_zoning:,.0f}  Q*={q_eq_zoning:,.0f}',
+             xy=(q_eq_zoning, p_eq_zoning),
+             xytext=(q_eq_zoning * 0.4, p_eq_zoning + 100),
+             fontsize=9, color='red',
+             arrowprops=dict(arrowstyle='->', color='red', lw=1.5))
+
+#dwl triangle
+dwl_q= np.linspace(q_eq_zoning, q_eq_free, 300)
+dwl_demand=wtp_max-wtp_slope*dwl_q
+dwl_supply=wta_min+wta_slope*dwl_q
+ax4.fill_between(dwl_q, dwl_supply, dwl_demand,
+                 alpha=0.25, color='orange',
+                 label='Deadweight Loss')
+
+#tax rectangle
+ax4.fill_between([0, q_eq_zoning],
+                 [p_eq_free, p_eq_free],
+                 [p_eq_zoning, p_eq_zoning],
+                 alpha=0.15, color='red',
+                 label=f'Zoning Tax (≈${zoning_tax:,.0f}/mo per unit)')
+
+#shift arrow
+mid_q=q_eq_zoning*0.6
+ax4.annotate('',
+             xy=(mid_q, wta_min + wta_slope * mid_q + zoning_tax),
+             xytext=(mid_q, wta_min + wta_slope * mid_q),
+             arrowprops=dict(arrowstyle='->', color='darkred', lw=2))
+ax4.text(mid_q*1.02,
+         wta_min + wta_slope * mid_q + zoning_tax / 2,
+         f'Zoning shifts\nsupply up\n(+${zoning_tax:,.0f}/mo)',
+         fontsize=8, color='darkred')
+
+ax4.set_xlabel('Number of Renter Households', fontsize=12)
+ax4.set_ylabel('Monthly Rent ($)', fontsize=12)
+ax4.set_title('Effect of Zoning Restrictions on Housing Market\n'
+              'Calibrated to Median U.S. Metro Area (2022)',
+              fontsize=13, fontweight='bold')
+ax4.legend(fontsize=9, loc='upper right')
+ax4.yaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f'${x:,.0f}'))
+ax4.xaxis.set_major_formatter(plt.FuncFormatter(lambda x, _: f'{x:,.0f}'))
+ax4.grid(True, alpha=0.3)
+ax4.set_xlim(0, q_eq_free * 1.3)
+ax4.set_ylim(0, wtp_max * 1.1)
+
+plt.tight_layout()
+plt.savefig('figures/fig4_supply_demand.png', bbox_inches='tight')
+plt.close()
+print("Saved fig4_supply_demand.png")
