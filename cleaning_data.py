@@ -62,6 +62,19 @@ def burden_category(pct):
 #apply to renters
 renters['burden_category']=renters['pct_cost_burden'].apply(burden_category)
 
+#merge with hud
+fmr=pd.read_csv('data/hud_fmr.csv')
+
+renters['msa_code']=pd.to_numeric(renters['msa_code'], errors='coerce')
+fmr['cbsa_num']=pd.to_numeric(fmr['cbsa_num'], errors='coerce')
+
+renters=renters.merge(
+    fmr[['cbsa_num','fmr_2br']],
+    left_on='msa_code',
+    right_on='cbsa_num',
+    how='left'
+)
+
 #save as csv
 renters.to_csv('data/burden_clean.csv')
 

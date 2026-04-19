@@ -11,6 +11,8 @@ variables={
     'B25070_008E': '35_to_39pct',
     'B25070_009E': '40_to_49pct',
     'B25070_010E': '50pct_plus',
+    'B25064_001E': 'median_gross_rent',
+    'B19013_001E': 'median_household_income'
     } #number of households with rentt/income ratio
 
 #set var_list

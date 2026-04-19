@@ -1,385 +1,480 @@
-,NAME,total_renter_households,30_to_34pct,35_to_39pct,40_to_49pct,50pct_plus,msa_code,cost_burdened,severely_burdened,pct_cost_burden,pct_severely_burdened,metro,state,burden_category
-2,"Abilene, TX Metro Area",24244,2161,1855,1675,5101,10180,10792,5101,44.51,21.04,"Abilene, TX",TX,High (40-49%)
-6,"Akron, OH Metro Area",94274,8045,4959,7312,21628,10420,41944,21628,44.49,22.94,"Akron, OH",OH,High (40-49%)
-8,"Albany, GA Metro Area",24683,1683,1434,1492,6885,10500,11494,6885,46.57,27.89,"Albany, GA",GA,High (40-49%)
-9,"Albany-Lebanon, OR Metro Area",16499,1470,1149,1607,3479,10540,7705,3479,46.7,21.09,"Albany-Lebanon, OR",OR,High (40-49%)
-10,"Albany-Schenectady-Troy, NY Metro Area",135406,10442,6812,10240,30101,10580,57595,30101,42.54,22.23,"Albany-Schenectady-Troy, NY",NY,High (40-49%)
-14,"Albuquerque, NM Metro Area",118861,9544,7849,10090,28712,10740,56195,28712,47.28,24.16,"Albuquerque, NM",NM,High (40-49%)
-16,"Alexandria, LA Metro Area",17775,1334,944,1797,3798,10780,7873,3798,44.29,21.37,"Alexandria, LA",LA,High (40-49%)
-19,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",103425,8998,6323,9650,24371,10900,49342,24371,47.71,23.56,"Allentown-Bethlehem-Easton, PA-NJ",PA,High (40-49%)
-22,"Altoona, PA Metro Area",13916,1409,1200,1065,2490,11020,6164,2490,44.29,17.89,"Altoona, PA",PA,High (40-49%)
-24,"Amarillo, TX Metro Area",36333,2962,1725,2659,7941,11100,15287,7941,42.07,21.86,"Amarillo, TX",TX,High (40-49%)
-26,"Ames, IA Metro Area",19234,1288,652,1646,5336,11180,8922,5336,46.39,27.74,"Ames, IA",IA,High (40-49%)
-28,"Anchorage, AK Metro Area",48025,4694,3205,4319,9639,11260,21857,9639,45.51,20.07,"Anchorage, AK",AK,High (40-49%)
-31,"Ann Arbor, MI Metro Area",57647,4298,3175,5007,16375,11460,28855,16375,50.05,28.41,"Ann Arbor, MI",MI,Very High (50%+)
-32,"Anniston-Oxford, AL Metro Area",12999,877,753,916,2783,11500,5329,2783,41.0,21.41,"Anniston-Oxford, AL",AL,High (40-49%)
-33,"Appleton, WI Metro Area",25721,1799,1136,1726,3383,11540,8044,3383,31.27,13.15,"Appleton, WI",WI,Moderate (30-39%)
-38,"Asheville, NC Metro Area",57940,5535,4048,5602,11562,11700,26747,11562,46.16,19.96,"Asheville, NC",NC,High (40-49%)
-46,"Athens-Clarke County, GA Metro Area",37880,2559,1900,3387,11700,12020,19546,11700,51.6,30.89,"Athens-Clarke County, GA",GA,Very High (50%+)
-47,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",777789,67840,52165,73610,184965,12060,378580,184965,48.67,23.78,"Atlanta-Sandy Springs-Alpharetta, GA",GA,High (40-49%)
-48,"Atlantic City-Hammonton, NJ Metro Area",34262,2994,2090,3292,10192,12100,18568,10192,54.19,29.75,"Atlantic City-Hammonton, NJ",NJ,Very High (50%+)
-52,"Auburn-Opelika, AL Metro Area",22649,1526,1129,1525,6921,12220,11101,6921,49.01,30.56,"Auburn-Opelika, AL",AL,High (40-49%)
-53,"Augusta-Richmond County, GA-SC Metro Area",71629,6055,3787,6201,18106,12260,34149,18106,47.67,25.28,"Augusta-Richmond County, GA-SC",GA,High (40-49%)
-56,"Austin-Round Rock-Georgetown, TX Metro Area",372749,32953,25046,31087,82467,12420,171553,82467,46.02,22.12,"Austin-Round Rock-Georgetown, TX",TX,High (40-49%)
-58,"Bakersfield, CA Metro Area",112026,9224,8131,11466,29157,12540,57978,29157,51.75,26.03,"Bakersfield, CA",CA,Very High (50%+)
-59,"Baltimore-Columbia-Towson, MD Metro Area",361927,30595,23137,31729,87437,12580,172898,87437,47.77,24.16,"Baltimore-Columbia-Towson, MD",MD,High (40-49%)
-60,"Bangor, ME Metro Area",19189,1578,1518,1740,3721,12620,8557,3721,44.59,19.39,"Bangor, ME",ME,High (40-49%)
-63,"Barnstable Town, MA Metro Area",18635,1833,1271,1540,5188,12700,9832,5188,52.76,27.84,"Barnstable Town, MA",MA,Very High (50%+)
-68,"Baton Rouge, LA Metro Area",98146,7381,6073,7771,24765,12940,45990,24765,46.86,25.23,"Baton Rouge, LA",LA,High (40-49%)
-69,"Battle Creek, MI Metro Area",15032,1423,787,1252,3098,12980,6560,3098,43.64,20.61,"Battle Creek, MI",MI,High (40-49%)
-70,"Bay City, MI Metro Area",10970,792,594,751,2271,13020,4408,2271,40.18,20.7,"Bay City, MI",MI,High (40-49%)
-73,"Beaumont-Port Arthur, TX Metro Area",47109,3758,2894,4033,10258,13140,20943,10258,44.46,21.78,"Beaumont-Port Arthur, TX",TX,High (40-49%)
-75,"Beckley, WV Metro Area",11205,754,409,757,2355,13220,4275,2355,38.15,21.02,"Beckley, WV",WV,Moderate (30-39%)
-79,"Bellingham, WA Metro Area",33729,2595,2808,3335,9355,13380,18093,9355,53.64,27.74,"Bellingham, WA",WA,Very High (50%+)
-81,"Bend, OR Metro Area",24660,2369,1636,2113,5899,13460,12017,5899,48.73,23.92,"Bend, OR",OR,High (40-49%)
-88,"Billings, MT Metro Area",22524,2090,1299,2038,4583,13740,10010,4583,44.44,20.35,"Billings, MT",MT,High (40-49%)
-89,"Binghamton, NY Metro Area",33082,2432,1681,3132,8638,13780,15883,8638,48.01,26.11,"Binghamton, NY",NY,High (40-49%)
-90,"Birmingham-Hoover, AL Metro Area",128048,10751,7483,10107,29686,13820,58027,29686,45.32,23.18,"Birmingham-Hoover, AL",AL,High (40-49%)
-91,"Bismarck, ND Metro Area",14993,865,870,993,2858,13900,5586,2858,37.26,19.06,"Bismarck, ND",ND,Moderate (30-39%)
-93,"Blacksburg-Christiansburg, VA Metro Area",25042,1522,704,1557,6862,13980,10645,6862,42.51,27.4,"Blacksburg-Christiansburg, VA",VA,High (40-49%)
-94,"Bloomington, IL Metro Area",23979,1242,1475,1430,4936,14010,9083,4936,37.88,20.58,"Bloomington, IL",IL,Moderate (30-39%)
-95,"Bloomington, IN Metro Area",27413,1848,1268,2399,9273,14020,14788,9273,53.95,33.83,"Bloomington, IN",IN,Very High (50%+)
-96,"Bloomsburg-Berwick, PA Metro Area",9889,855,597,494,1710,14100,3656,1710,36.97,17.29,"Bloomsburg-Berwick, PA",PA,Moderate (30-39%)
-101,"Boise City, ID Metro Area",78205,7431,5235,6413,14344,14260,33423,14344,42.74,18.34,"Boise City, ID",ID,High (40-49%)
-105,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%)
-106,"Boulder, CO Metro Area",50324,4542,2985,4716,16110,14500,28353,16110,56.34,32.01,"Boulder, CO",CO,Very High (50%+)
-107,"Bowling Green, KY Metro Area",26562,1883,1725,1518,6031,14540,11157,6031,42.0,22.71,"Bowling Green, KY",KY,High (40-49%)
-113,"Bremerton-Silverdale-Port Orchard, WA Metro Area",31981,3489,2454,2653,6947,14740,15543,6947,48.6,21.72,"Bremerton-Silverdale-Port Orchard, WA",WA,High (40-49%)
-116,"Bridgeport-Stamford-Norwalk, CT Metro Area",118930,10136,7865,10736,31775,14860,60512,31775,50.88,26.72,"Bridgeport-Stamford-Norwalk, CT",CT,Very High (50%+)
-121,"Brownsville-Harlingen, TX Metro Area",46015,4150,2743,3614,10623,15180,21130,10623,45.92,23.09,"Brownsville-Harlingen, TX",TX,High (40-49%)
-123,"Brunswick, GA Metro Area",13747,762,953,1310,2595,15260,5620,2595,40.88,18.88,"Brunswick, GA",GA,High (40-49%)
-125,"Buffalo-Cheektowaga, NY Metro Area",167999,12636,9838,12652,42166,15380,77292,42166,46.01,25.1,"Buffalo-Cheektowaga, NY",NY,High (40-49%)
-128,"Burlington, NC Metro Area",22883,1699,1220,2189,4787,15500,9895,4787,43.24,20.92,"Burlington, NC",NC,High (40-49%)
-129,"Burlington-South Burlington, VT Metro Area",29961,2957,2074,2579,7810,15540,15420,7810,51.47,26.07,"Burlington-South Burlington, VT",VT,Very High (50%+)
-133,"California-Lexington Park, MD Metro Area",11346,544,693,573,2602,15680,4412,2602,38.89,22.93,"California-Lexington Park, MD",MD,Moderate (30-39%)
-139,"Canton-Massillon, OH Metro Area",51907,4173,3010,3944,9484,15940,20611,9484,39.71,18.27,"Canton-Massillon, OH",OH,Moderate (30-39%)
-140,"Cape Coral-Fort Myers, FL Metro Area",83206,7339,6183,8014,22717,15980,44253,22717,53.18,27.3,"Cape Coral-Fort Myers, FL",FL,Very High (50%+)
-141,"Cape Girardeau, MO-IL Metro Area",11493,851,852,712,2492,16020,4907,2492,42.7,21.68,"Cape Girardeau, MO-IL",MO,High (40-49%)
-142,"Carbondale-Marion, IL Metro Area",20814,1871,1472,1663,4962,16060,9968,4962,47.89,23.84,"Carbondale-Marion, IL",IL,High (40-49%)
-145,"Carson City, NV Metro Area",8905,1094,642,439,1790,16180,3965,1790,44.53,20.1,"Carson City, NV",NV,High (40-49%)
-146,"Casper, WY Metro Area",8958,565,607,938,1709,16220,3819,1709,42.63,19.08,"Casper, WY",WY,High (40-49%)
-148,"Cedar Rapids, IA Metro Area",27608,2116,1567,2067,5232,16300,10982,5232,39.78,18.95,"Cedar Rapids, IA",IA,Moderate (30-39%)
-154,"Chambersburg-Waynesboro, PA Metro Area",16945,1548,984,1153,2916,16540,6601,2916,38.96,17.21,"Chambersburg-Waynesboro, PA",PA,Moderate (30-39%)
-155,"Champaign-Urbana, IL Metro Area",39445,2696,2072,2999,10499,16580,18266,10499,46.31,26.62,"Champaign-Urbana, IL",IL,High (40-49%)
-156,"Charleston, WV Metro Area",29907,2106,1649,2008,6015,16620,11778,6015,39.38,20.11,"Charleston, WV",WV,Moderate (30-39%)
-158,"Charleston-North Charleston, SC Metro Area",100827,8107,6848,9630,23943,16700,48528,23943,48.13,23.75,"Charleston-North Charleston, SC",SC,High (40-49%)
-159,"Charlotte-Concord-Gastonia, NC-SC Metro Area",348582,30392,22009,29353,70959,16740,152713,70959,43.81,20.36,"Charlotte-Concord-Gastonia, NC-SC",NC,High (40-49%)
-160,"Charlottesville, VA Metro Area",29814,2452,1775,2275,6993,16820,13495,6993,45.26,23.46,"Charlottesville, VA",VA,High (40-49%)
-161,"Chattanooga, TN-GA Metro Area",71328,5182,4760,5641,13818,16860,29401,13818,41.22,19.37,"Chattanooga, TN-GA",TN,High (40-49%)
-162,"Cheyenne, WY Metro Area",11515,1201,720,1068,1955,16940,4944,1955,42.94,16.98,"Cheyenne, WY",WY,High (40-49%)
-163,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%)
-164,"Chico, CA Metro Area",34895,2571,2397,3490,9811,17020,18269,9811,52.35,28.12,"Chico, CA",CA,Very High (50%+)
-166,"Cincinnati, OH-KY-IN Metro Area",286425,20884,16625,19797,61645,17140,118951,61645,41.53,21.52,"Cincinnati, OH-KY-IN",OH,High (40-49%)
-169,"Clarksville, TN-KY Metro Area",45083,3975,2890,4177,8295,17300,19337,8295,42.89,18.4,"Clarksville, TN-KY",TN,High (40-49%)
-172,"Cleveland, TN Metro Area",14738,1228,747,1232,2658,17420,5865,2658,39.8,18.04,"Cleveland, TN",TN,Moderate (30-39%)
-173,"Cleveland-Elyria, OH Metro Area",307569,25684,16582,22375,68110,17460,132751,68110,43.16,22.14,"Cleveland-Elyria, OH",OH,High (40-49%)
-179,"Coeur d'Alene, ID Metro Area",18544,1853,1680,2004,3625,17660,9162,3625,49.41,19.55,"Coeur d'Alene, ID",ID,High (40-49%)
-182,"College Station-Bryan, TX Metro Area",49065,3379,3203,4637,15199,17780,26418,15199,53.84,30.98,"College Station-Bryan, TX",TX,Very High (50%+)
-183,"Colorado Springs, CO Metro Area",95470,9064,7708,9624,23093,17820,49489,23093,51.84,24.19,"Colorado Springs, CO",CO,Very High (50%+)
-184,"Columbia, MO Metro Area",33546,2234,1790,3040,8863,17860,15927,8863,47.48,26.42,"Columbia, MO",MO,High (40-49%)
-185,"Columbia, SC Metro Area",102879,8159,6021,8438,26837,17900,49455,26837,48.07,26.09,"Columbia, SC",SC,High (40-49%)
-186,"Columbus, GA-AL Metro Area",53949,4233,3182,4521,12055,17980,23991,12055,44.47,22.35,"Columbus, GA-AL",GA,High (40-49%)
-187,"Columbus, IN Metro Area",9782,620,448,436,1828,18020,3332,1828,34.06,18.69,"Columbus, IN",IN,Moderate (30-39%)
-190,"Columbus, OH Metro Area",323450,25277,18545,23736,64495,18140,132053,64495,40.83,19.94,"Columbus, OH",OH,High (40-49%)
-199,"Corpus Christi, TX Metro Area",60538,4843,4409,5319,14027,18580,28598,14027,47.24,23.17,"Corpus Christi, TX",TX,High (40-49%)
-202,"Corvallis, OR Metro Area",16662,1025,970,1423,5890,18700,9308,5890,55.86,35.35,"Corvallis, OR",OR,Very High (50%+)
-207,"Crestview-Fort Walton Beach-Destin, FL Metro Area",34312,3876,2707,3706,6924,18880,17213,6924,50.17,20.18,"Crestview-Fort Walton Beach-Destin, FL",FL,Very High (50%+)
-211,"Cumberland, MD-WV Metro Area",10209,829,455,985,1779,19060,4048,1779,39.65,17.43,"Cumberland, MD-WV",MD,Moderate (30-39%)
-212,"Dallas-Fort Worth-Arlington, TX Metro Area",1105476,100523,76784,104447,239350,19100,521104,239350,47.14,21.65,"Dallas-Fort Worth-Arlington, TX",TX,High (40-49%)
-213,"Dalton, GA Metro Area",15405,1021,904,1544,2411,19140,5880,2411,38.17,15.65,"Dalton, GA",GA,Moderate (30-39%)
-214,"Danville, IL Metro Area",9123,849,515,427,1749,19180,3540,1749,38.8,19.17,"Danville, IL",IL,Moderate (30-39%)
-217,"Daphne-Fairhope-Foley, AL Metro Area",20094,1527,1142,2053,4227,19300,8949,4227,44.54,21.04,"Daphne-Fairhope-Foley, AL",AL,High (40-49%)
-218,"Davenport-Moline-Rock Island, IA-IL Metro Area",46638,3550,2694,4073,8991,19340,19308,8991,41.4,19.28,"Davenport-Moline-Rock Island, IA-IL",IA,High (40-49%)
-220,"Dayton-Kettering, OH Metro Area",119753,10415,6498,8205,24253,19430,49371,24253,41.23,20.25,"Dayton-Kettering, OH",OH,High (40-49%)
-221,"Decatur, AL Metro Area",15720,1297,446,1297,2724,19460,5764,2724,36.67,17.33,"Decatur, AL",AL,Moderate (30-39%)
-222,"Decatur, IL Metro Area",13472,1059,589,747,2631,19500,5026,2631,37.31,19.53,"Decatur, IL",IL,Moderate (30-39%)
-226,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",74758,5773,4947,7667,20025,19660,38412,20025,51.38,26.79,"Deltona-Daytona Beach-Ormond Beach, FL",FL,Very High (50%+)
-228,"Denver-Aurora-Lakewood, CO Metro Area",421824,41919,28382,38530,98838,19740,207669,98838,49.23,23.43,"Denver-Aurora-Lakewood, CO",CO,High (40-49%)
-230,"Des Moines-West Des Moines, IA Metro Area",86217,7233,5249,6351,15465,19780,34298,15465,39.78,17.94,"Des Moines-West Des Moines, IA",IA,Moderate (30-39%)
-231,"Detroit-Warren-Dearborn, MI Metro Area",513025,42672,28581,39484,123691,19820,234428,123691,45.7,24.11,"Detroit-Warren-Dearborn, MI",MI,High (40-49%)
-235,"Dothan, AL Metro Area",18100,1324,821,1207,3841,20020,7193,3841,39.74,21.22,"Dothan, AL",AL,Moderate (30-39%)
-237,"Dover, DE Metro Area",20352,1954,1438,1828,4975,20100,10195,4975,50.09,24.44,"Dover, DE",DE,Very High (50%+)
-240,"Dubuque, IA Metro Area",10673,656,589,705,2680,20220,4630,2680,43.38,25.11,"Dubuque, IA",IA,High (40-49%)
-241,"Duluth, MN-WI Metro Area",33355,3185,1805,2602,7626,20260,15218,7626,45.62,22.86,"Duluth, MN-WI",MN,High (40-49%)
-246,"Durham-Chapel Hill, NC Metro Area",94981,9245,5434,6877,21459,20500,43015,21459,45.29,22.59,"Durham-Chapel Hill, NC",NC,High (40-49%)
-250,"East Stroudsburg, PA Metro Area",12589,1108,581,1280,3386,20700,6355,3386,50.48,26.9,"East Stroudsburg, PA",PA,Very High (50%+)
-251,"Eau Claire, WI Metro Area",22395,1679,1263,1571,3965,20740,8478,3965,37.86,17.7,"Eau Claire, WI",WI,Moderate (30-39%)
-255,"El Centro, CA Metro Area",19902,1839,1543,1537,5146,20940,10065,5146,50.57,25.86,"El Centro, CA",CA,Very High (50%+)
-258,"Elizabethtown-Fort Knox, KY Metro Area",20407,1161,982,1226,2978,21060,6347,2978,31.1,14.59,"Elizabethtown-Fort Knox, KY",KY,Moderate (30-39%)
-260,"Elkhart-Goshen, IN Metro Area",20633,1944,1203,1573,4275,21140,8995,4275,43.6,20.72,"Elkhart-Goshen, IN",IN,High (40-49%)
-264,"Elmira, NY Metro Area",10978,1045,605,783,2958,21300,5391,2958,49.11,26.94,"Elmira, NY",NY,High (40-49%)
-265,"El Paso, TX Metro Area",108524,9244,7411,10141,24594,21340,51390,24594,47.35,22.66,"El Paso, TX",TX,High (40-49%)
-267,"Enid, OK Metro Area",8158,610,520,542,1405,21420,3077,1405,37.72,17.22,"Enid, OK",OK,Moderate (30-39%)
-269,"Erie, PA Metro Area",35065,2727,2144,2760,8926,21500,16557,8926,47.22,25.46,"Erie, PA",PA,High (40-49%)
-273,"Eugene-Springfield, OR Metro Area",64535,5535,3668,5982,17207,21660,32392,17207,50.19,26.66,"Eugene-Springfield, OR",OR,Very High (50%+)
-276,"Evansville, IN-KY Metro Area",39932,2592,2199,3373,8712,21780,16876,8712,42.26,21.82,"Evansville, IN-KY",IN,High (40-49%)
-277,"Fairbanks, AK Metro Area",14330,1168,730,1700,2570,21820,6168,2570,43.04,17.93,"Fairbanks, AK",AK,High (40-49%)
-282,"Fargo, ND-MN Metro Area",46553,3591,2582,3701,9230,22020,19104,9230,41.04,19.83,"Fargo, ND-MN",ND,High (40-49%)
-285,"Farmington, NM Metro Area",12171,863,542,857,2390,22140,4652,2390,38.22,19.64,"Farmington, NM",NM,Moderate (30-39%)
-286,"Fayetteville, NC Metro Area",80727,6269,4978,7839,17668,22180,36754,17668,45.53,21.89,"Fayetteville, NC",NC,High (40-49%)
-287,"Fayetteville-Springdale-Rogers, AR Metro Area",77362,6267,4138,4601,12221,22220,27227,12221,35.19,15.8,"Fayetteville-Springdale-Rogers, AR",AR,Moderate (30-39%)
-292,"Flagstaff, AZ Metro Area",21288,1920,1433,1771,5337,22380,10461,5337,49.14,25.07,"Flagstaff, AZ",AZ,High (40-49%)
-293,"Flint, MI Metro Area",49178,3830,3264,3811,12446,22420,23351,12446,47.48,25.31,"Flint, MI",MI,High (40-49%)
-294,"Florence, SC Metro Area",26195,1374,1416,2446,5626,22500,10862,5626,41.47,21.48,"Florence, SC",SC,High (40-49%)
-295,"Florence-Muscle Shoals, AL Metro Area",19168,1499,790,1344,3200,22520,6833,3200,35.65,16.69,"Florence-Muscle Shoals, AL",AL,Moderate (30-39%)
-296,"Fond du Lac, WI Metro Area",12437,1133,651,988,1898,22540,4670,1898,37.55,15.26,"Fond du Lac, WI",WI,Moderate (30-39%)
-299,"Fort Collins, CO Metro Area",52796,4395,3346,4688,14113,22660,26542,14113,50.27,26.73,"Fort Collins, CO",CO,Very High (50%+)
-306,"Fort Smith, AR-OK Metro Area",32262,2154,1857,2845,5461,22900,12317,5461,38.18,16.93,"Fort Smith, AR-OK",AR,Moderate (30-39%)
-307,"Fort Wayne, IN Metro Area",48941,3986,2661,3521,9932,23060,20100,9932,41.07,20.29,"Fort Wayne, IN",IN,High (40-49%)
-314,"Fresno, CA Metro Area",145867,12365,9819,13543,38249,23420,73976,38249,50.71,26.22,"Fresno, CA",CA,Very High (50%+)
-315,"Gadsden, AL Metro Area",10337,752,475,883,2182,23460,4292,2182,41.52,21.11,"Gadsden, AL",AL,High (40-49%)
-317,"Gainesville, FL Metro Area",54195,3717,3285,4446,17054,23540,28502,17054,52.59,31.47,"Gainesville, FL",FL,Very High (50%+)
-318,"Gainesville, GA Metro Area",20817,1487,1784,2028,4518,23580,9817,4518,47.16,21.7,"Gainesville, GA",GA,High (40-49%)
-325,"Gettysburg, PA Metro Area",8742,679,487,677,1472,23900,3315,1472,37.92,16.84,"Gettysburg, PA",PA,Moderate (30-39%)
-328,"Glens Falls, NY Metro Area",15065,1560,762,1075,3201,24020,6598,3201,43.8,21.25,"Glens Falls, NY",NY,High (40-49%)
-331,"Goldsboro, NC Metro Area",18151,1804,941,1661,3420,24140,7826,3420,43.12,18.84,"Goldsboro, NC",NC,High (40-49%)
-333,"Grand Forks, ND-MN Metro Area",18562,1289,1278,1703,3862,24220,8132,3862,43.81,20.81,"Grand Forks, ND-MN",ND,High (40-49%)
-334,"Grand Island, NE Metro Area",10371,1145,454,1017,1518,24260,4134,1518,39.86,14.64,"Grand Island, NE",NE,Moderate (30-39%)
-335,"Grand Junction, CO Metro Area",17781,1079,1233,1416,4021,24300,7749,4021,43.58,22.61,"Grand Junction, CO",CO,High (40-49%)
-337,"Grand Rapids-Kentwood, MI Metro Area",109085,10174,7303,8584,22843,24340,48904,22843,44.83,20.94,"Grand Rapids-Kentwood, MI",MI,High (40-49%)
-339,"Grants Pass, OR Metro Area",10645,1046,987,921,2956,24420,5910,2956,55.52,27.77,"Grants Pass, OR",OR,Very High (50%+)
-341,"Great Falls, MT Metro Area",11060,788,616,1075,1958,24500,4437,1958,40.12,17.7,"Great Falls, MT",MT,High (40-49%)
-342,"Greeley, CO Metro Area",28700,2404,2102,2624,6881,24540,14011,6881,48.82,23.98,"Greeley, CO",CO,High (40-49%)
-343,"Green Bay, WI Metro Area",42160,3990,2133,2996,6915,24580,16034,6915,38.03,16.4,"Green Bay, WI",WI,Moderate (30-39%)
-345,"Greensboro-High Point, NC Metro Area",111875,9563,7295,10856,23051,24660,50765,23051,45.38,20.6,"Greensboro-High Point, NC",NC,High (40-49%)
-348,"Greenville, NC Metro Area",35193,2762,1835,2391,8675,24780,15663,8675,44.51,24.65,"Greenville, NC",NC,High (40-49%)
-350,"Greenville-Anderson, SC Metro Area",108358,9003,6651,8450,24452,24860,48556,24452,44.81,22.57,"Greenville-Anderson, SC",SC,High (40-49%)
-355,"Gulfport-Biloxi, MS Metro Area",53527,4097,3151,4823,12349,25060,24420,12349,45.62,23.07,"Gulfport-Biloxi, MS",MS,High (40-49%)
-357,"Hagerstown-Martinsburg, MD-WV Metro Area",33481,3210,2229,2111,6589,25180,14139,6589,42.23,19.68,"Hagerstown-Martinsburg, MD-WV",MD,High (40-49%)
-359,"Hammond, LA Metro Area",13280,830,625,1360,3629,25220,6444,3629,48.52,27.33,"Hammond, LA",LA,High (40-49%)
-360,"Hanford-Corcoran, CA Metro Area",19670,1818,1139,1632,3936,25260,8525,3936,43.34,20.01,"Hanford-Corcoran, CA",CA,High (40-49%)
-362,"Harrisburg-Carlisle, PA Metro Area",77726,5849,3925,5934,14986,25420,30694,14986,39.49,19.28,"Harrisburg-Carlisle, PA",PA,Moderate (30-39%)
-364,"Harrisonburg, VA Metro Area",18435,1345,754,1085,4037,25500,7221,4037,39.17,21.9,"Harrisonburg, VA",VA,Moderate (30-39%)
-365,"Hartford-East Hartford-Middletown, CT Metro Area",160785,13422,9970,13016,39299,25540,75707,39299,47.09,24.44,"Hartford-East Hartford-Middletown, CT",CT,High (40-49%)
-367,"Hattiesburg, MS Metro Area",23726,1458,1291,2075,5201,25620,10025,5201,42.25,21.92,"Hattiesburg, MS",MS,High (40-49%)
-375,"Hickory-Lenoir-Morganton, NC Metro Area",37822,2841,1802,2657,5711,25860,13011,5711,34.4,15.1,"Hickory-Lenoir-Morganton, NC",NC,Moderate (30-39%)
-378,"Hilton Head Island-Bluffton, SC Metro Area",21740,1488,1578,2035,4308,25940,9409,4308,43.28,19.82,"Hilton Head Island-Bluffton, SC",SC,High (40-49%)
-379,"Hinesville, GA Metro Area",14091,1359,1266,933,2653,25980,6211,2653,44.08,18.83,"Hinesville, GA",GA,High (40-49%)
-382,"Homosassa Springs, FL Metro Area",9890,750,631,668,2710,26140,4759,2710,48.12,27.4,"Homosassa Springs, FL",FL,High (40-49%)
-385,"Hot Springs, AR Metro Area",13711,1037,647,756,2615,26300,5055,2615,36.87,19.07,"Hot Springs, AR",AR,Moderate (30-39%)
-387,"Houma-Thibodaux, LA Metro Area",18709,1340,1401,1069,3975,26380,7785,3975,41.61,21.25,"Houma-Thibodaux, LA",LA,High (40-49%)
-388,"Houston-The Woodlands-Sugar Land, TX Metro Area",982172,84560,68827,88772,230882,26420,473041,230882,48.16,23.51,"Houston-The Woodlands-Sugar Land, TX",TX,High (40-49%)
-392,"Huntington-Ashland, WV-KY-OH Metro Area",38131,2535,1718,2428,9013,26580,15694,9013,41.16,23.64,"Huntington-Ashland, WV-KY-OH",WV,High (40-49%)
-393,"Huntsville, AL Metro Area",59628,4757,3165,3962,11477,26620,23361,11477,39.18,19.25,"Huntsville, AL",AL,Moderate (30-39%)
-398,"Idaho Falls, ID Metro Area",14211,948,1010,1121,2157,26820,5236,2157,36.84,15.18,"Idaho Falls, ID",ID,Moderate (30-39%)
-400,"Indianapolis-Carmel-Anderson, IN Metro Area",277043,24989,17508,22355,59637,26900,124489,59637,44.93,21.53,"Indianapolis-Carmel-Anderson, IN",IN,High (40-49%)
-402,"Iowa City, IA Metro Area",27631,2307,1646,2497,7800,26980,14250,7800,51.57,28.23,"Iowa City, IA",IA,Very High (50%+)
-404,"Ithaca, NY Metro Area",19656,1433,1113,1345,6710,27060,10601,6710,53.93,34.14,"Ithaca, NY",NY,Very High (50%+)
-405,"Jackson, MI Metro Area",15865,1015,977,1251,3545,27100,6788,3545,42.79,22.34,"Jackson, MI",MI,High (40-49%)
-406,"Jackson, MS Metro Area",73060,7095,4495,5919,16515,27140,34024,16515,46.57,22.6,"Jackson, MS",MS,High (40-49%)
-408,"Jackson, TN Metro Area",24662,2181,1366,2159,5610,27180,11316,5610,45.88,22.75,"Jackson, TN",TN,High (40-49%)
-410,"Jacksonville, FL Metro Area",212834,21820,13506,20475,48767,27260,104568,48767,49.13,22.91,"Jacksonville, FL",FL,High (40-49%)
-412,"Jacksonville, NC Metro Area",29164,2777,1283,3024,6311,27340,13395,6311,45.93,21.64,"Jacksonville, NC",NC,High (40-49%)
-416,"Janesville-Beloit, WI Metro Area",19977,1616,1147,1405,3599,27500,7767,3599,38.88,18.02,"Janesville-Beloit, WI",WI,Moderate (30-39%)
-421,"Jefferson City, MO Metro Area",15701,1084,870,895,2237,27620,5086,2237,32.39,14.25,"Jefferson City, MO",MO,Moderate (30-39%)
-424,"Johnson City, TN Metro Area",28283,1890,1434,2392,5271,27740,10987,5271,38.85,18.64,"Johnson City, TN",TN,Moderate (30-39%)
-425,"Johnstown, PA Metro Area",13453,812,570,867,2810,27780,5059,2810,37.6,20.89,"Johnstown, PA",PA,Moderate (30-39%)
-426,"Jonesboro, AR Metro Area",20376,1649,1039,1782,4453,27860,8923,4453,43.79,21.85,"Jonesboro, AR",AR,High (40-49%)
-427,"Joplin, MO Metro Area",23116,2001,1183,1835,4468,27900,9487,4468,41.04,19.33,"Joplin, MO",MO,High (40-49%)
-429,"Kahului-Wailuku-Lahaina, HI Metro Area",18970,1436,1150,1679,4649,27980,8914,4649,46.99,24.51,"Kahului-Wailuku-Lahaina, HI",HI,High (40-49%)
-430,"Kalamazoo-Portage, MI Metro Area",38068,3117,2225,3801,8631,28020,17774,8631,46.69,22.67,"Kalamazoo-Portage, MI",MI,High (40-49%)
-432,"Kankakee, IL Metro Area",12957,1259,694,1230,2953,28100,6136,2953,47.36,22.79,"Kankakee, IL",IL,High (40-49%)
-433,"Kansas City, MO-KS Metro Area",301048,24771,17753,24040,60109,28140,126673,60109,42.08,19.97,"Kansas City, MO-KS",MO,High (40-49%)
-439,"Kennewick-Richland, WA Metro Area",32651,2991,2033,3232,6050,28420,14306,6050,43.81,18.53,"Kennewick-Richland, WA",WA,High (40-49%)
-444,"Killeen-Temple, TX Metro Area",73297,6831,5090,6909,14302,28660,33132,14302,45.2,19.51,"Killeen-Temple, TX",TX,High (40-49%)
-445,"Kingsport-Bristol, TN-VA Metro Area",33585,2346,1497,2339,5497,28700,11679,5497,34.77,16.37,"Kingsport-Bristol, TN-VA",TN,Moderate (30-39%)
-446,"Kingston, NY Metro Area",22290,1693,1682,1507,6267,28740,11149,6267,50.02,28.12,"Kingston, NY",NY,Very High (50%+)
-451,"Knoxville, TN Metro Area",107636,8792,5562,8903,21425,28940,44682,21425,41.51,19.91,"Knoxville, TN",TN,High (40-49%)
-452,"Kokomo, IN Metro Area",9905,753,580,614,2004,29020,3951,2004,39.89,20.23,"Kokomo, IN",IN,Moderate (30-39%)
-454,"La Crosse-Onalaska, WI-MN Metro Area",20356,1586,803,1526,4621,29100,8536,4621,41.93,22.7,"La Crosse-Onalaska, WI-MN",WI,High (40-49%)
-455,"Lafayette, LA Metro Area",57602,3533,3522,5090,12661,29180,24806,12661,43.06,21.98,"Lafayette, LA",LA,High (40-49%)
-456,"Lafayette-West Lafayette, IN Metro Area",37533,3624,2153,3149,9723,29200,18649,9723,49.69,25.91,"Lafayette-West Lafayette, IN",IN,High (40-49%)
-459,"Lake Charles, LA Metro Area",22674,1645,1076,1480,5210,29340,9411,5210,41.51,22.98,"Lake Charles, LA",LA,High (40-49%)
-461,"Lake Havasu City-Kingman, AZ Metro Area",26102,2071,1821,2347,4771,29420,11010,4771,42.18,18.28,"Lake Havasu City-Kingman, AZ",AZ,High (40-49%)
-462,"Lakeland-Winter Haven, FL Metro Area",79810,6298,5465,6961,18607,29460,37331,18607,46.77,23.31,"Lakeland-Winter Haven, FL",FL,High (40-49%)
-464,"Lancaster, PA Metro Area",62803,4738,4363,5022,13435,29540,27558,13435,43.88,21.39,"Lancaster, PA",PA,High (40-49%)
-465,"Lansing-East Lansing, MI Metro Area",71157,5256,4128,6086,17311,29620,32781,17311,46.07,24.33,"Lansing-East Lansing, MI",MI,High (40-49%)
-467,"Laredo, TX Metro Area",28570,2306,1536,2534,6569,29700,12945,6569,45.31,22.99,"Laredo, TX",TX,High (40-49%)
-468,"Las Cruces, NM Metro Area",29456,2022,2220,3022,7382,29740,14646,7382,49.72,25.06,"Las Cruces, NM",NM,High (40-49%)
-470,"Las Vegas-Henderson-Paradise, NV Metro Area",364659,31831,25671,36389,93518,29820,187409,93518,51.39,25.65,"Las Vegas-Henderson-Paradise, NV",NV,Very High (50%+)
-473,"Lawrence, KS Metro Area",24601,1982,1641,1861,6779,29940,12263,6779,49.85,27.56,"Lawrence, KS",KS,High (40-49%)
-475,"Lawton, OK Metro Area",20560,1615,1134,1343,4046,30020,8138,4046,39.58,19.68,"Lawton, OK",OK,Moderate (30-39%)
-478,"Lebanon, PA Metro Area",15717,1423,749,1535,3323,30140,7030,3323,44.73,21.14,"Lebanon, PA",PA,High (40-49%)
-482,"Lewiston, ID-WA Metro Area",7508,667,428,510,1737,30300,3342,1737,44.51,23.14,"Lewiston, ID-WA",ID,High (40-49%)
-483,"Lewiston-Auburn, ME Metro Area",15375,1324,913,1256,2930,30340,6423,2930,41.78,19.06,"Lewiston-Auburn, ME",ME,High (40-49%)
-486,"Lexington-Fayette, KY Metro Area",83906,7591,4763,6449,18413,30460,37216,18413,44.35,21.94,"Lexington-Fayette, KY",KY,High (40-49%)
-488,"Lima, OH Metro Area",13241,981,929,655,2414,30620,4979,2414,37.6,18.23,"Lima, OH",OH,Moderate (30-39%)
-490,"Lincoln, NE Metro Area",54635,3925,3658,4120,11399,30700,23102,11399,42.28,20.86,"Lincoln, NE",NE,High (40-49%)
-491,"Little Rock-North Little Rock-Conway, AR Metro Area",108514,9169,5812,8018,23729,30780,46728,23729,43.06,21.87,"Little Rock-North Little Rock-Conway, AR",AR,High (40-49%)
-493,"Logan, UT-ID Metro Area",16026,1147,1019,1347,3445,30860,6958,3445,43.42,21.5,"Logan, UT-ID",UT,High (40-49%)
-496,"Longview, TX Metro Area",32480,2591,1861,2588,6869,30980,13909,6869,42.82,21.15,"Longview, TX",TX,High (40-49%)
-497,"Longview, WA Metro Area",14503,1396,1139,1293,3091,31020,6919,3091,47.71,21.31,"Longview, WA",WA,High (40-49%)
-499,"Los Angeles-Long Beach-Anaheim, CA Metro Area",2274256,204481,152113,220105,655811,31080,1232510,655811,54.19,28.84,"Los Angeles-Long Beach-Anaheim, CA",CA,Very High (50%+)
-500,"Louisville/Jefferson County, KY-IN Metro Area",165320,13208,10331,12369,33057,31140,68965,33057,41.72,20.0,"Louisville/Jefferson County, KY-IN",KY,High (40-49%)
-501,"Lubbock, TX Metro Area",55189,4583,2564,4398,15289,31180,26834,15289,48.62,27.7,"Lubbock, TX",TX,High (40-49%)
-505,"Lynchburg, VA Metro Area",30265,2311,1585,2337,6269,31340,12502,6269,41.31,20.71,"Lynchburg, VA",VA,High (40-49%)
-507,"Macon-Bibb County, GA Metro Area",32861,2692,1964,2460,9149,31420,16265,9149,49.5,27.84,"Macon-Bibb County, GA",GA,High (40-49%)
-508,"Madera, CA Metro Area",15138,1470,825,1133,3574,31460,7002,3574,46.25,23.61,"Madera, CA",CA,High (40-49%)
-510,"Madison, WI Metro Area",113175,9339,5995,8721,24090,31540,48145,24090,42.54,21.29,"Madison, WI",WI,High (40-49%)
-515,"Manchester-Nashua, NH Metro Area",54683,6071,3725,4556,11103,31700,25455,11103,46.55,20.3,"Manchester-Nashua, NH",NH,High (40-49%)
-516,"Manhattan, KS Metro Area",24512,1867,1322,2565,5894,31740,11648,5894,47.52,24.05,"Manhattan, KS",KS,High (40-49%)
-518,"Mankato, MN Metro Area",13803,1120,618,1158,3084,31860,5980,3084,43.32,22.34,"Mankato, MN",MN,High (40-49%)
-519,"Mansfield, OH Metro Area",15876,1381,785,1287,3178,31900,6631,3178,41.77,20.02,"Mansfield, OH",OH,High (40-49%)
-537,"McAllen-Edinburg-Mission, TX Metro Area",82786,5786,5065,5774,20962,32580,37587,20962,45.4,25.32,"McAllen-Edinburg-Mission, TX",TX,High (40-49%)
-542,"Medford, OR Metro Area",31425,2766,2109,2994,7476,32780,15345,7476,48.83,23.79,"Medford, OR",OR,High (40-49%)
-543,"Memphis, TN-MS-AR Metro Area",200672,16680,13125,17048,50850,32820,97703,50850,48.69,25.34,"Memphis, TN-MS-AR",TN,High (40-49%)
-545,"Merced, CA Metro Area",38604,3044,2342,3208,8142,32900,16736,8142,43.35,21.09,"Merced, CA",CA,High (40-49%)
-549,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",914000,84774,67073,99492,291059,33100,542398,291059,59.34,31.84,"Miami-Fort Lauderdale-Pompano Beach, FL",FL,Very High (50%+)
-550,"Michigan City-La Porte, IN Metro Area",11186,938,441,1040,2238,33140,4657,2238,41.63,20.01,"Michigan City-La Porte, IN",IN,High (40-49%)
-552,"Midland, MI Metro Area",7567,632,441,637,1623,33220,3333,1623,44.05,21.45,"Midland, MI",MI,High (40-49%)
-553,"Midland, TX Metro Area",22281,1953,883,1647,4808,33260,9291,4808,41.7,21.58,"Midland, TX",TX,High (40-49%)
-555,"Milwaukee-Waukesha, WI Metro Area",258417,20101,15581,21294,59978,33340,116954,59978,45.26,23.21,"Milwaukee-Waukesha, WI",WI,High (40-49%)
-558,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",418397,37939,27111,33426,91113,33460,189589,91113,45.31,21.78,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,High (40-49%)
-560,"Missoula, MT Metro Area",20774,1929,1478,1546,4409,33540,9362,4409,45.07,21.22,"Missoula, MT",MT,High (40-49%)
-563,"Mobile, AL Metro Area",58909,5280,3357,4416,14635,33660,27688,14635,47.0,24.84,"Mobile, AL",AL,High (40-49%)
-564,"Modesto, CA Metro Area",69388,5121,4523,6318,18004,33700,33966,18004,48.95,25.95,"Modesto, CA",CA,High (40-49%)
-565,"Monroe, LA Metro Area",29126,2294,1361,3032,7751,33740,14438,7751,49.57,26.61,"Monroe, LA",LA,High (40-49%)
-566,"Monroe, MI Metro Area",11974,922,966,1330,2370,33780,5588,2370,46.67,19.79,"Monroe, MI",MI,High (40-49%)
-567,"Montgomery, AL Metro Area",52121,3142,2820,4205,12795,33860,22962,12795,44.06,24.55,"Montgomery, AL",AL,High (40-49%)
-571,"Morgantown, WV Metro Area",21440,1558,770,1967,6359,34060,10654,6359,49.69,29.66,"Morgantown, WV",WV,High (40-49%)
-572,"Morristown, TN Metro Area",15729,1271,947,1249,3039,34100,6506,3039,41.36,19.32,"Morristown, TN",TN,High (40-49%)
-585,"Mount Vernon-Anacortes, WA Metro Area",15078,1765,824,1404,3320,34580,7313,3320,48.5,22.02,"Mount Vernon-Anacortes, WA",WA,High (40-49%)
-586,"Muncie, IN Metro Area",15889,1194,901,1016,4514,34620,7625,4514,47.99,28.41,"Muncie, IN",IN,High (40-49%)
-589,"Muskegon, MI Metro Area",15135,1077,861,1532,3377,34740,6847,3377,45.24,22.31,"Muskegon, MI",MI,High (40-49%)
-591,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",45220,3528,3000,3539,10755,34820,20822,10755,46.05,23.78,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",SC,High (40-49%)
-593,"Napa, CA Metro Area",17142,1616,1223,1726,4101,34900,8666,4101,50.55,23.92,"Napa, CA",CA,Very High (50%+)
-594,"Naples-Marco Island, FL Metro Area",39406,3569,2844,4146,12075,34940,22634,12075,57.44,30.64,"Naples-Marco Island, FL",FL,Very High (50%+)
-595,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",263142,25191,18578,22155,55674,34980,121598,55674,46.21,21.16,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,High (40-49%)
-598,"New Bern, NC Metro Area",15018,1069,1112,869,3181,35100,6231,3181,41.49,21.18,"New Bern, NC",NC,High (40-49%)
-602,"New Haven-Milford, CT Metro Area",130041,10046,7972,12075,33639,35300,63732,33639,49.01,25.87,"New Haven-Milford, CT",CT,High (40-49%)
-603,"New Orleans-Metairie, LA Metro Area",180427,14495,10095,15177,51209,35380,90976,51209,50.42,28.38,"New Orleans-Metairie, LA",LA,Very High (50%+)
-608,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%)
-609,"Niles, MI Metro Area",17153,1573,947,1161,4141,35660,7822,4141,45.6,24.14,"Niles, MI",MI,High (40-49%)
-613,"North Port-Sarasota-Bradenton, FL Metro Area",88452,7511,5687,8929,23152,35840,45279,23152,51.19,26.17,"North Port-Sarasota-Bradenton, FL",FL,Very High (50%+)
-617,"Norwich-New London, CT Metro Area",34727,3253,1986,2976,7397,35980,15612,7397,44.96,21.3,"Norwich-New London, CT",CT,High (40-49%)
-619,"Ocala, FL Metro Area",36475,2924,1932,3055,8277,36100,16188,8277,44.38,22.69,"Ocala, FL",FL,High (40-49%)
-620,"Ocean City, NJ Metro Area",9327,624,648,879,2692,36140,4843,2692,51.92,28.86,"Ocean City, NJ",NJ,Very High (50%+)
-621,"Odessa, TX Metro Area",21278,2150,984,1463,4525,36220,9122,4525,42.87,21.27,"Odessa, TX",TX,High (40-49%)
-622,"Ogden-Clearfield, UT Metro Area",53153,4699,3065,4356,9600,36260,21720,9600,40.86,18.06,"Ogden-Clearfield, UT",UT,High (40-49%)
-626,"Oklahoma City, OK Metro Area",199013,15878,11990,15143,43164,36420,86175,43164,43.3,21.69,"Oklahoma City, OK",OK,High (40-49%)
-628,"Olympia-Lacey-Tumwater, WA Metro Area",37865,4239,2255,2891,10028,36500,19413,10028,51.27,26.48,"Olympia-Lacey-Tumwater, WA",WA,Very High (50%+)
-629,"Omaha-Council Bluffs, NE-IA Metro Area",128525,11216,8391,10942,25834,36540,56383,25834,43.87,20.1,"Omaha-Council Bluffs, NE-IA",NE,High (40-49%)
-634,"Orlando-Kissimmee-Sanford, FL Metro Area",351799,33106,26784,39476,92263,36740,191629,92263,54.47,26.23,"Orlando-Kissimmee-Sanford, FL",FL,Very High (50%+)
-635,"Oshkosh-Neenah, WI Metro Area",24453,2060,1358,1909,3863,36780,9190,3863,37.58,15.8,"Oshkosh-Neenah, WI",WI,Moderate (30-39%)
-642,"Owensboro, KY Metro Area",14501,1088,841,821,2710,36980,5460,2710,37.65,18.69,"Owensboro, KY",KY,Moderate (30-39%)
-644,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",99078,9858,7022,11154,27435,37100,55469,27435,55.99,27.69,"Oxnard-Thousand Oaks-Ventura, CA",CA,Very High (50%+)
-650,"Palm Bay-Melbourne-Titusville, FL Metro Area",57547,5253,3923,5803,14278,37340,29257,14278,50.84,24.81,"Palm Bay-Melbourne-Titusville, FL",FL,Very High (50%+)
-652,"Panama City, FL Metro Area",23470,2929,1849,2305,5250,37460,12333,5250,52.55,22.37,"Panama City, FL",FL,Very High (50%+)
-656,"Parkersburg-Vienna, WV Metro Area",9339,784,816,1102,1512,37620,4214,1512,45.12,16.19,"Parkersburg-Vienna, WV",WV,High (40-49%)
-662,"Pensacola-Ferry Pass-Brent, FL Metro Area",61692,4917,4809,6022,12799,37860,28547,12799,46.27,20.75,"Pensacola-Ferry Pass-Brent, FL",FL,High (40-49%)
-663,"Peoria, IL Metro Area",45866,3584,2422,2994,10076,37900,19076,10076,41.59,21.97,"Peoria, IL",IL,High (40-49%)
-665,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",801034,67081,47871,64507,202087,37980,381546,202087,47.63,25.23,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,High (40-49%)
-666,"Phoenix-Mesa-Chandler, AZ Metro Area",625339,56357,41214,56251,138041,38060,291863,138041,46.67,22.07,"Phoenix-Mesa-Chandler, AZ",AZ,High (40-49%)
-669,"Pine Bluff, AR Metro Area",10080,820,756,894,1661,38220,4131,1661,40.98,16.48,"Pine Bluff, AR",AR,High (40-49%)
-672,"Pittsburgh, PA Metro Area",303982,24085,15844,21783,59386,38300,121098,59386,39.84,19.54,"Pittsburgh, PA",PA,Moderate (30-39%)
-673,"Pittsfield, MA Metro Area",16698,1626,1265,1120,4200,38340,8211,4200,49.17,25.15,"Pittsfield, MA",MA,High (40-49%)
-678,"Pocatello, ID Metro Area",11157,648,607,815,2229,38540,4299,2229,38.53,19.98,"Pocatello, ID",ID,Moderate (30-39%)
-686,"Portland-South Portland, ME Metro Area",64544,6649,4522,4315,12290,38860,27776,12290,43.03,19.04,"Portland-South Portland, ME",ME,High (40-49%)
-687,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",373026,32528,24911,35750,87747,38900,180936,87747,48.5,23.52,"Portland-Vancouver-Hillsboro, OR-WA",OR,High (40-49%)
-689,"Port St. Lucie, FL Metro Area",42040,4258,2653,3860,11652,38940,22423,11652,53.34,27.72,"Port St. Lucie, FL",FL,Very High (50%+)
-692,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",78765,6839,4843,7094,21572,39100,40348,21572,51.23,27.39,"Poughkeepsie-Newburgh-Middletown, NY",NY,Very High (50%+)
-693,"Prescott Valley-Prescott, AZ Metro Area",28649,1800,1733,2933,5292,39150,11758,5292,41.04,18.47,"Prescott Valley-Prescott, AZ",AZ,High (40-49%)
-696,"Providence-Warwick, RI-MA Metro Area",248944,23050,14908,19264,55253,39300,112475,55253,45.18,22.19,"Providence-Warwick, RI-MA",RI,High (40-49%)
-697,"Provo-Orem, UT Metro Area",59535,5775,3547,5227,11828,39340,26377,11828,44.31,19.87,"Provo-Orem, UT",UT,High (40-49%)
-698,"Pueblo, CO Metro Area",22229,2037,1252,1669,5874,39380,10832,5874,48.73,26.42,"Pueblo, CO",CO,High (40-49%)
-700,"Punta Gorda, FL Metro Area",14884,1248,992,1546,4299,39460,8085,4299,54.32,28.88,"Punta Gorda, FL",FL,Very High (50%+)
-702,"Racine, WI Metro Area",23759,1948,1135,1817,4893,39540,9793,4893,41.22,20.59,"Racine, WI",WI,High (40-49%)
-703,"Raleigh-Cary, NC Metro Area",178143,16608,11204,14839,35888,39580,78539,35888,44.09,20.15,"Raleigh-Cary, NC",NC,High (40-49%)
-704,"Rapid City, SD Metro Area",16906,2113,1306,1227,2599,39660,7245,2599,42.85,15.37,"Rapid City, SD",SD,High (40-49%)
-706,"Reading, PA Metro Area",47009,4199,2726,4571,10275,39740,21771,10275,46.31,21.86,"Reading, PA",PA,High (40-49%)
-708,"Redding, CA Metro Area",24850,2113,1388,1898,5978,39820,11377,5978,45.78,24.06,"Redding, CA",CA,High (40-49%)
-710,"Reno, NV Metro Area",79800,7549,5565,8124,17091,39900,38329,17091,48.03,21.42,"Reno, NV",NV,High (40-49%)
-713,"Richmond, VA Metro Area",171512,15819,11664,14411,40333,40060,82227,40333,47.94,23.52,"Richmond, VA",VA,High (40-49%)
-716,"Riverside-San Bernardino-Ontario, CA Metro Area",492978,46819,34765,51788,137534,40140,270906,137534,54.95,27.9,"Riverside-San Bernardino-Ontario, CA",CA,Very High (50%+)
-718,"Roanoke, VA Metro Area",40109,2759,2020,3834,7951,40220,16564,7951,41.3,19.82,"Roanoke, VA",VA,High (40-49%)
-721,"Rochester, MN Metro Area",23496,2560,1625,1420,4697,40340,10302,4697,43.85,19.99,"Rochester, MN",MN,High (40-49%)
-722,"Rochester, NY Metro Area",146380,12720,8620,11949,37430,40380,70719,37430,48.31,25.57,"Rochester, NY",NY,High (40-49%)
-723,"Rockford, IL Metro Area",42628,3461,2190,3726,9879,40420,19256,9879,45.17,23.17,"Rockford, IL",IL,High (40-49%)
-727,"Rocky Mount, NC Metro Area",20627,1597,1338,1298,4109,40580,8342,4109,40.44,19.92,"Rocky Mount, NC",NC,High (40-49%)
-729,"Rome, GA Metro Area",13279,993,873,1327,2776,40660,5969,2776,44.95,20.91,"Rome, GA",GA,High (40-49%)
-736,"Sacramento-Roseville-Folsom, CA Metro Area",329482,29014,23277,32272,87469,40900,172032,87469,52.21,26.55,"Sacramento-Roseville-Folsom, CA",CA,Very High (50%+)
-738,"Saginaw, MI Metro Area",21260,2234,1174,1924,5279,40980,10611,5279,49.91,24.83,"Saginaw, MI",MI,High (40-49%)
-739,"St. Cloud, MN Metro Area",25160,1429,1347,1906,5495,41060,10177,5495,40.45,21.84,"St. Cloud, MN",MN,High (40-49%)
-740,"St. George, UT Metro Area",17674,1679,1508,1478,3628,41100,8293,3628,46.92,20.53,"St. George, UT",UT,High (40-49%)
-741,"St. Joseph, MO-KS Metro Area",15362,1347,677,918,3250,41140,6192,3250,40.31,21.16,"St. Joseph, MO-KS",MO,High (40-49%)
-742,"St. Louis, MO-IL Metro Area",346284,26810,19930,25892,74295,41180,146927,74295,42.43,21.45,"St. Louis, MO-IL",MO,High (40-49%)
-746,"Salem, OR Metro Area",58447,5140,4327,4820,14673,41420,28960,14673,49.55,25.1,"Salem, OR",OR,High (40-49%)
-748,"Salinas, CA Metro Area",62614,6421,4611,6242,15497,41500,32771,15497,52.34,24.75,"Salinas, CA",CA,Very High (50%+)
-749,"Salisbury, MD-DE Metro Area",42856,3526,3058,3945,10236,41540,20765,10236,48.45,23.88,"Salisbury, MD-DE",MD,High (40-49%)
-750,"Salt Lake City, UT Metro Area",137891,13434,8946,12460,27355,41620,62195,27355,45.1,19.84,"Salt Lake City, UT",UT,High (40-49%)
-751,"San Angelo, TX Metro Area",14909,1110,1107,1462,2861,41660,6540,2861,43.87,19.19,"San Angelo, TX",TX,High (40-49%)
-752,"San Antonio-New Braunfels, TX Metro Area",345256,30254,24213,31313,79082,41700,164862,79082,47.75,22.91,"San Antonio-New Braunfels, TX",TX,High (40-49%)
-753,"San Diego-Chula Vista-Carlsbad, CA Metro Area",525840,48900,37001,53307,148226,41740,287434,148226,54.66,28.19,"San Diego-Chula Vista-Carlsbad, CA",CA,Very High (50%+)
-757,"San Francisco-Oakland-Berkeley, CA Metro Area",768461,61754,43933,63770,172433,41860,341890,172433,44.49,22.44,"San Francisco-Oakland-Berkeley, CA",CA,High (40-49%)
-759,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",295566,24884,19031,23521,59497,41940,126933,59497,42.95,20.13,"San Jose-Sunnyvale-Santa Clara, CA",CA,High (40-49%)
-761,"San Luis Obispo-Paso Robles, CA Metro Area",41068,3847,2794,4031,11181,42020,21853,11181,53.21,27.23,"San Luis Obispo-Paso Robles, CA",CA,Very High (50%+)
-762,"Santa Cruz-Watsonville, CA Metro Area",38635,3008,2243,3181,10733,42100,19165,10733,49.61,27.78,"Santa Cruz-Watsonville, CA",CA,High (40-49%)
-763,"Santa Fe, NM Metro Area",19336,1423,921,1731,4657,42140,8732,4657,45.16,24.08,"Santa Fe, NM",NM,High (40-49%)
-765,"Santa Maria-Santa Barbara, CA Metro Area",69864,6462,5195,6874,19113,42200,37644,19113,53.88,27.36,"Santa Maria-Santa Barbara, CA",CA,Very High (50%+)
-766,"Santa Rosa-Petaluma, CA Metro Area",72732,7163,5027,6835,18407,42220,37432,18407,51.47,25.31,"Santa Rosa-Petaluma, CA",CA,Very High (50%+)
-768,"Savannah, GA Metro Area",59549,4660,4256,4796,14259,42340,27971,14259,46.97,23.94,"Savannah, GA",GA,High (40-49%)
-773,"Scranton--Wilkes-Barre, PA Metro Area",76197,5539,3525,5162,16567,42540,30793,16567,40.41,21.74,"Scranton--Wilkes-Barre, PA",PA,High (40-49%)
-775,"Seattle-Tacoma-Bellevue, WA Metro Area",619164,58468,42264,52857,132625,42660,286214,132625,46.23,21.42,"Seattle-Tacoma-Bellevue, WA",WA,High (40-49%)
-776,"Sebastian-Vero Beach, FL Metro Area",13031,850,740,1157,3724,42680,6471,3724,49.66,28.58,"Sebastian-Vero Beach, FL",FL,High (40-49%)
-777,"Sebring-Avon Park, FL Metro Area",9659,890,618,796,1947,42700,4251,1947,44.01,20.16,"Sebring-Avon Park, FL",FL,High (40-49%)
-787,"Sheboygan, WI Metro Area",13883,944,549,779,2029,43100,4301,2029,30.98,14.61,"Sheboygan, WI",WI,Moderate (30-39%)
-792,"Sherman-Denison, TX Metro Area",17130,1352,1196,1289,3531,43300,7368,3531,43.01,20.61,"Sherman-Denison, TX",TX,High (40-49%)
-794,"Shreveport-Bossier City, LA Metro Area",56682,4173,3563,4414,15284,43340,27434,15284,48.4,26.96,"Shreveport-Bossier City, LA",LA,High (40-49%)
-796,"Sierra Vista-Douglas, AZ Metro Area",14798,1382,1003,1213,2356,43420,5954,2356,40.24,15.92,"Sierra Vista-Douglas, AZ",AZ,High (40-49%)
-799,"Sioux City, IA-NE-SD Metro Area",17967,1270,867,1185,3319,43580,6641,3319,36.96,18.47,"Sioux City, IA-NE-SD",IA,Moderate (30-39%)
-800,"Sioux Falls, SD Metro Area",37349,3005,2104,3044,5620,43620,13773,5620,36.88,15.05,"Sioux Falls, SD",SD,Moderate (30-39%)
-805,"South Bend-Mishawaka, IN-MI Metro Area",38079,3056,2286,3284,8591,43780,17217,8591,45.21,22.56,"South Bend-Mishawaka, IN-MI",IN,High (40-49%)
-806,"Spartanburg, SC Metro Area",34114,2840,1941,2362,7442,43900,14585,7442,42.75,21.82,"Spartanburg, SC",SC,High (40-49%)
-810,"Spokane-Spokane Valley, WA Metro Area",81144,7807,5520,7559,18306,44060,39192,18306,48.3,22.56,"Spokane-Spokane Valley, WA",WA,High (40-49%)
-811,"Springfield, IL Metro Area",26182,2128,1200,1700,5895,44100,10923,5895,41.72,22.52,"Springfield, IL",IL,High (40-49%)
-812,"Springfield, MA Metro Area",98808,9663,6434,8431,24834,44140,49362,24834,49.96,25.13,"Springfield, MA",MA,High (40-49%)
-813,"Springfield, MO Metro Area",72911,5759,4262,5848,15760,44180,31629,15760,43.38,21.62,"Springfield, MO",MO,High (40-49%)
-814,"Springfield, OH Metro Area",17438,1503,942,1023,3204,44220,6672,3204,38.26,18.37,"Springfield, OH",OH,Moderate (30-39%)
-816,"State College, PA Metro Area",21825,1439,1009,2098,7142,44300,11688,7142,53.55,32.72,"State College, PA",PA,Very High (50%+)
-818,"Staunton, VA Metro Area",14944,986,975,1141,3308,44420,6410,3308,42.89,22.14,"Staunton, VA",VA,High (40-49%)
-825,"Stockton, CA Metro Area",95032,9453,6537,8762,22463,44700,47215,22463,49.68,23.64,"Stockton, CA",CA,High (40-49%)
-830,"Sumter, SC Metro Area",16886,1488,1105,1363,3089,44940,7045,3089,41.72,18.29,"Sumter, SC",SC,High (40-49%)
-834,"Syracuse, NY Metro Area",85007,6242,5083,5951,21666,45060,38942,21666,45.81,25.49,"Syracuse, NY",NY,High (40-49%)
-837,"Tallahassee, FL Metro Area",64643,5053,3409,6128,18944,45220,33534,18944,51.88,29.31,"Tallahassee, FL",FL,Very High (50%+)
-838,"Tampa-St. Petersburg-Clearwater, FL Metro Area",423600,39039,29670,42687,106954,45300,218350,106954,51.55,25.25,"Tampa-St. Petersburg-Clearwater, FL",FL,Very High (50%+)
-841,"Terre Haute, IN Metro Area",22513,1869,1340,2035,5106,45460,10350,5106,45.97,22.68,"Terre Haute, IN",IN,High (40-49%)
-842,"Texarkana, TX-AR Metro Area",18920,1465,1036,1838,3920,45500,8259,3920,43.65,20.72,"Texarkana, TX-AR",TX,High (40-49%)
-844,"The Villages, FL Metro Area",8257,499,425,1080,2213,45540,4217,2213,51.07,26.8,"The Villages, FL",FL,Very High (50%+)
-850,"Toledo, OH Metro Area",95327,6888,4923,6766,19903,45780,38480,19903,40.37,20.88,"Toledo, OH",OH,High (40-49%)
-851,"Topeka, KS Metro Area",28749,2116,1488,2726,5964,45820,12294,5964,42.76,20.75,"Topeka, KS",KS,High (40-49%)
-854,"Trenton-Princeton, NJ Metro Area",51914,4510,3141,4461,13043,45940,25155,13043,48.46,25.12,"Trenton-Princeton, NJ",NJ,High (40-49%)
-857,"Tucson, AZ Metro Area",151698,13640,9249,13630,35088,46060,71607,35088,47.2,23.13,"Tucson, AZ",AZ,High (40-49%)
-859,"Tulsa, OK Metro Area",135897,10729,8290,10341,25197,46140,54557,25197,40.15,18.54,"Tulsa, OK",OK,High (40-49%)
-861,"Tuscaloosa, AL Metro Area",35757,2822,1768,3298,8810,46220,16698,8810,46.7,24.64,"Tuscaloosa, AL",AL,High (40-49%)
-862,"Twin Falls, ID Metro Area",12388,1214,1113,789,2097,46300,5213,2097,42.08,16.93,"Twin Falls, ID",ID,High (40-49%)
-863,"Tyler, TX Metro Area",25423,1927,1496,2001,4942,46340,10366,4942,40.77,19.44,"Tyler, TX",TX,High (40-49%)
-868,"Urban Honolulu, HI Metro Area",137316,13164,9564,14419,36746,46520,73893,36746,53.81,26.76,"Urban Honolulu, HI",HI,Very High (50%+)
-869,"Utica-Rome, NY Metro Area",35706,2823,1852,2215,7846,46540,14736,7846,41.27,21.97,"Utica-Rome, NY",NY,High (40-49%)
-871,"Valdosta, GA Metro Area",23266,2175,1492,2079,4745,46660,10491,4745,45.09,20.39,"Valdosta, GA",GA,High (40-49%)
-872,"Vallejo, CA Metro Area",57295,5608,4096,5283,14786,46700,29773,14786,51.96,25.81,"Vallejo, CA",CA,Very High (50%+)
-878,"Victoria, TX Metro Area",11730,664,732,1045,2741,47020,5182,2741,44.18,23.37,"Victoria, TX",TX,High (40-49%)
-881,"Vineland-Bridgeton, NJ Metro Area",17864,1405,1002,1618,5934,47220,9959,5934,55.75,33.22,"Vineland-Bridgeton, NJ",NJ,Very High (50%+)
-883,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",262740,24199,18368,25039,61998,47260,129604,61998,49.33,23.6,"Virginia Beach-Norfolk-Newport News, VA-NC",VA,High (40-49%)
-884,"Visalia, CA Metro Area",58592,4474,3381,5589,13911,47300,27355,13911,46.69,23.74,"Visalia, CA",CA,High (40-49%)
-886,"Waco, TX Metro Area",39586,3117,2770,3268,10549,47380,19704,10549,49.78,26.65,"Waco, TX",TX,High (40-49%)
-888,"Walla Walla, WA Metro Area",7778,533,715,810,1744,47460,3802,1744,48.88,22.42,"Walla Walla, WA",WA,High (40-49%)
-890,"Warner Robins, GA Metro Area",23196,1935,1200,2579,4038,47580,9752,4038,42.04,17.41,"Warner Robins, GA",GA,High (40-49%)
-896,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",853416,75905,55794,68817,185597,47900,386113,185597,45.24,21.75,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,High (40-49%)
-898,"Waterloo-Cedar Falls, IA Metro Area",21074,1519,1357,1352,5407,47940,9635,5407,45.72,25.66,"Waterloo-Cedar Falls, IA",IA,High (40-49%)
-901,"Watertown-Fort Drum, NY Metro Area",20976,1864,1247,1974,4037,48060,9122,4037,43.49,19.25,"Watertown-Fort Drum, NY",NY,High (40-49%)
-903,"Wausau-Weston, WI Metro Area",17934,1829,1137,1618,2845,48140,7429,2845,41.42,15.86,"Wausau-Weston, WI",WI,High (40-49%)
-906,"Weirton-Steubenville, WV-OH Metro Area",13662,912,553,902,2661,48260,5028,2661,36.8,19.48,"Weirton-Steubenville, WV-OH",WV,Moderate (30-39%)
-907,"Wenatchee, WA Metro Area",15770,1014,720,1109,2745,48300,5588,2745,35.43,17.41,"Wenatchee, WA",WA,Moderate (30-39%)
-910,"Wheeling, WV-OH Metro Area",14603,1177,739,946,3081,48540,5943,3081,40.7,21.1,"Wheeling, WV-OH",WV,High (40-49%)
-912,"Wichita, KS Metro Area",87340,7283,4932,6745,16942,48620,35902,16942,41.11,19.4,"Wichita, KS",KS,High (40-49%)
-913,"Wichita Falls, TX Metro Area",20464,1422,1418,1493,3653,48660,7986,3653,39.02,17.85,"Wichita Falls, TX",TX,Moderate (30-39%)
-914,"Williamsport, PA Metro Area",13764,1455,656,1074,2623,48700,5808,2623,42.2,19.06,"Williamsport, PA",PA,High (40-49%)
-917,"Wilmington, NC Metro Area",44566,3913,2596,4031,11393,48900,21933,11393,49.21,25.56,"Wilmington, NC",NC,High (40-49%)
-920,"Winchester, VA-WV Metro Area",15357,1482,1028,957,2702,49020,6169,2702,40.17,17.59,"Winchester, VA-WV",VA,High (40-49%)
-924,"Winston-Salem, NC Metro Area",87505,7394,5271,6339,18907,49180,37911,18907,43.32,21.61,"Winston-Salem, NC",NC,High (40-49%)
-928,"Worcester, MA-CT Metro Area",126746,12523,7758,10102,27763,49340,58146,27763,45.88,21.9,"Worcester, MA-CT",MA,High (40-49%)
-930,"Yakima, WA Metro Area",32234,2604,2004,1976,6644,49420,13228,6644,41.04,20.61,"Yakima, WA",WA,High (40-49%)
-933,"York-Hanover, PA Metro Area",43622,3951,2887,4161,8776,49620,19775,8776,45.33,20.12,"York-Hanover, PA",PA,High (40-49%)
-934,"Youngstown-Warren-Boardman, OH-PA Metro Area",66232,4622,3767,6057,13791,49660,28237,13791,42.63,20.82,"Youngstown-Warren-Boardman, OH-PA",OH,High (40-49%)
-935,"Yuba City, CA Metro Area",24000,2597,1449,2554,4862,49700,11462,4862,47.76,20.26,"Yuba City, CA",CA,High (40-49%)
-936,"Yuma, AZ Metro Area",23103,2270,2094,1262,4474,49740,10100,4474,43.72,19.37,"Yuma, AZ",AZ,High (40-49%)
+,NAME,total_renter_households,30_to_34pct,35_to_39pct,40_to_49pct,50pct_plus,median_gross_rent,median_household_income,msa_code,cost_burdened,severely_burdened,pct_cost_burden,pct_severely_burdened,metro,state,burden_category,cbsa_num,fmr_2br
+0,"Abilene, TX Metro Area",24244,2161,1855,1675,5101,1050,61924,10180,10792,5101,44.51,21.04,"Abilene, TX",TX,High (40-49%),10180.0,945.0
+1,"Akron, OH Metro Area",94274,8045,4959,7312,21628,962,68647,10420,41944,21628,44.49,22.94,"Akron, OH",OH,High (40-49%),10420.0,890.0
+2,"Albany, GA Metro Area",24683,1683,1434,1492,6885,912,53173,10500,11494,6885,46.57,27.89,"Albany, GA",GA,High (40-49%),10500.0,810.0
+3,"Albany-Lebanon, OR Metro Area",16499,1470,1149,1607,3479,1160,69523,10540,7705,3479,46.7,21.09,"Albany-Lebanon, OR",OR,High (40-49%),10540.0,1138.0
+4,"Albany-Schenectady-Troy, NY Metro Area",135406,10442,6812,10240,30101,1181,83360,10580,57595,30101,42.54,22.23,"Albany-Schenectady-Troy, NY",NY,High (40-49%),10580.0,1207.0
+5,"Albuquerque, NM Metro Area",118861,9544,7849,10090,28712,1035,63971,10740,56195,28712,47.28,24.16,"Albuquerque, NM",NM,High (40-49%),10740.0,996.0
+6,"Alexandria, LA Metro Area",17775,1334,944,1797,3798,922,55650,10780,7873,3798,44.29,21.37,"Alexandria, LA",LA,High (40-49%),10780.0,818.0
+7,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",103425,8998,6323,9650,24371,1246,78597,10900,49342,24371,47.71,23.56,"Allentown-Bethlehem-Easton, PA-NJ",PA,High (40-49%),10900.0,1196.0
+8,"Allentown-Bethlehem-Easton, PA-NJ Metro Area",103425,8998,6323,9650,24371,1246,78597,10900,49342,24371,47.71,23.56,"Allentown-Bethlehem-Easton, PA-NJ",PA,High (40-49%),10900.0,1365.0
+9,"Altoona, PA Metro Area",13916,1409,1200,1065,2490,838,59386,11020,6164,2490,44.29,17.89,"Altoona, PA",PA,High (40-49%),11020.0,829.0
+10,"Amarillo, TX Metro Area",36333,2962,1725,2659,7941,997,64147,11100,15287,7941,42.07,21.86,"Amarillo, TX",TX,High (40-49%),11100.0,908.0
+11,"Ames, IA Metro Area",19234,1288,652,1646,5336,981,68107,11180,8922,5336,46.39,27.74,"Ames, IA",IA,High (40-49%),11180.0,943.0
+12,"Ames, IA Metro Area",19234,1288,652,1646,5336,981,68107,11180,8922,5336,46.39,27.74,"Ames, IA",IA,High (40-49%),11180.0,810.0
+13,"Anchorage, AK Metro Area",48025,4694,3205,4319,9639,1375,93016,11260,21857,9639,45.51,20.07,"Anchorage, AK",AK,High (40-49%),11260.0,1248.0
+14,"Ann Arbor, MI Metro Area",57647,4298,3175,5007,16375,1335,84245,11460,28855,16375,50.05,28.41,"Ann Arbor, MI",MI,Very High (50%+),11460.0,1262.0
+15,"Anniston-Oxford, AL Metro Area",12999,877,753,916,2783,806,54339,11500,5329,2783,41.0,21.41,"Anniston-Oxford, AL",AL,High (40-49%),11500.0,744.0
+16,"Appleton, WI Metro Area",25721,1799,1136,1726,3383,942,79958,11540,8044,3383,31.27,13.15,"Appleton, WI",WI,Moderate (30-39%),11540.0,881.0
+17,"Asheville, NC Metro Area",57940,5535,4048,5602,11562,1121,64538,11700,26747,11562,46.16,19.96,"Asheville, NC",NC,High (40-49%),11700.0,1378.0
+18,"Athens-Clarke County, GA Metro Area",37880,2559,1900,3387,11700,1028,59130,12020,19546,11700,51.6,30.89,"Athens-Clarke County, GA",GA,Very High (50%+),12020.0,899.0
+19,"Atlanta-Sandy Springs-Alpharetta, GA Metro Area",777789,67840,52165,73610,184965,1446,82625,12060,378580,184965,48.67,23.78,"Atlanta-Sandy Springs-Alpharetta, GA",GA,High (40-49%),12060.0,1289.0
+20,"Atlantic City-Hammonton, NJ Metro Area",34262,2994,2090,3292,10192,1268,73113,12100,18568,10192,54.19,29.75,"Atlantic City-Hammonton, NJ",NJ,Very High (50%+),12100.0,1407.0
+21,"Auburn-Opelika, AL Metro Area",22649,1526,1129,1525,6921,953,59288,12220,11101,6921,49.01,30.56,"Auburn-Opelika, AL",AL,High (40-49%),12220.0,924.0
+22,"Augusta-Richmond County, GA-SC Metro Area",71629,6055,3787,6201,18106,1016,62941,12260,34149,18106,47.67,25.28,"Augusta-Richmond County, GA-SC",GA,High (40-49%),12260.0,906.0
+23,"Austin-Round Rock-Georgetown, TX Metro Area",372749,32953,25046,31087,82467,1529,92939,12420,171553,82467,46.02,22.12,"Austin-Round Rock-Georgetown, TX",TX,High (40-49%),12420.0,1451.0
+24,"Bakersfield, CA Metro Area",112026,9224,8131,11466,29157,1161,63883,12540,57978,29157,51.75,26.03,"Bakersfield, CA",CA,Very High (50%+),12540.0,1013.0
+25,"Baltimore-Columbia-Towson, MD Metro Area",361927,30595,23137,31729,87437,1489,94167,12580,172898,87437,47.77,24.16,"Baltimore-Columbia-Towson, MD",MD,High (40-49%),12580.0,1395.0
+26,"Bangor, ME Metro Area",19189,1578,1518,1740,3721,932,59438,12620,8557,3721,44.59,19.39,"Bangor, ME",ME,High (40-49%),12620.0,1103.0
+27,"Barnstable Town, MA Metro Area",18635,1833,1271,1540,5188,1536,90447,12700,9832,5188,52.76,27.84,"Barnstable Town, MA",MA,Very High (50%+),12700.0,1879.0
+28,"Baton Rouge, LA Metro Area",98146,7381,6073,7771,24765,1072,67979,12940,45990,24765,46.86,25.23,"Baton Rouge, LA",LA,High (40-49%),12940.0,738.0
+29,"Baton Rouge, LA Metro Area",98146,7381,6073,7771,24765,1072,67979,12940,45990,24765,46.86,25.23,"Baton Rouge, LA",LA,High (40-49%),12940.0,917.0
+30,"Battle Creek, MI Metro Area",15032,1423,787,1252,3098,897,58191,12980,6560,3098,43.64,20.61,"Battle Creek, MI",MI,High (40-49%),12980.0,841.0
+31,"Bay City, MI Metro Area",10970,792,594,751,2271,786,57887,13020,4408,2271,40.18,20.7,"Bay City, MI",MI,High (40-49%),13020.0,786.0
+32,"Beaumont-Port Arthur, TX Metro Area",47109,3758,2894,4033,10258,992,62427,13140,20943,10258,44.46,21.78,"Beaumont-Port Arthur, TX",TX,High (40-49%),13140.0,982.0
+33,"Beckley, WV Metro Area",11205,754,409,757,2355,796,48859,13220,4275,2355,38.15,21.02,"Beckley, WV",WV,Moderate (30-39%),,
+34,"Bellingham, WA Metro Area",33729,2595,2808,3335,9355,1370,77581,13380,18093,9355,53.64,27.74,"Bellingham, WA",WA,Very High (50%+),13380.0,1254.0
+35,"Bend, OR Metro Area",24660,2369,1636,2113,5899,1550,82042,13460,12017,5899,48.73,23.92,"Bend, OR",OR,High (40-49%),13460.0,1303.0
+36,"Billings, MT Metro Area",22524,2090,1299,2038,4583,1045,72377,13740,10010,4583,44.44,20.35,"Billings, MT",MT,High (40-49%),13740.0,960.0
+37,"Billings, MT Metro Area",22524,2090,1299,2038,4583,1045,72377,13740,10010,4583,44.44,20.35,"Billings, MT",MT,High (40-49%),13740.0,854.0
+38,"Binghamton, NY Metro Area",33082,2432,1681,3132,8638,884,61271,13780,15883,8638,48.01,26.11,"Binghamton, NY",NY,High (40-49%),13780.0,855.0
+39,"Birmingham-Hoover, AL Metro Area",128048,10751,7483,10107,29686,1081,68329,13820,58027,29686,45.32,23.18,"Birmingham-Hoover, AL",AL,High (40-49%),13820.0,943.0
+40,"Bismarck, ND Metro Area",14993,865,870,993,2858,973,81846,13900,5586,2858,37.26,19.06,"Bismarck, ND",ND,Moderate (30-39%),13900.0,880.0
+41,"Blacksburg-Christiansburg, VA Metro Area",25042,1522,704,1557,6862,1040,62017,13980,10645,6862,42.51,27.4,"Blacksburg-Christiansburg, VA",VA,High (40-49%),13980.0,935.0
+42,"Bloomington, IL Metro Area",23979,1242,1475,1430,4936,941,75356,14010,9083,4936,37.88,20.58,"Bloomington, IL",IL,Moderate (30-39%),14010.0,870.0
+43,"Bloomington, IN Metro Area",27413,1848,1268,2399,9273,1089,59998,14020,14788,9273,53.95,33.83,"Bloomington, IN",IN,Very High (50%+),14020.0,971.0
+44,"Bloomsburg-Berwick, PA Metro Area",9889,855,597,494,1710,889,61559,14100,3656,1710,36.97,17.29,"Bloomsburg-Berwick, PA",PA,Moderate (30-39%),,
+45,"Boise City, ID Metro Area",78205,7431,5235,6413,14344,1245,78138,14260,33423,14344,42.74,18.34,"Boise City, ID",ID,High (40-49%),14260.0,1118.0
+46,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,2399.0
+47,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,1723.0
+48,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,1565.0
+49,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,1773.0
+50,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,1399.0
+51,"Boston-Cambridge-Newton, MA-NH Metro Area",736123,67448,46031,59914,173950,1827,107117,14460,347343,173950,47.19,23.63,"Boston-Cambridge-Newton, MA-NH",MA,High (40-49%),14460.0,1637.0
+52,"Boulder, CO Metro Area",50324,4542,2985,4716,16110,1828,99770,14500,28353,16110,56.34,32.01,"Boulder, CO",CO,Very High (50%+),14500.0,1748.0
+53,"Bowling Green, KY Metro Area",26562,1883,1725,1518,6031,918,60914,14540,11157,6031,42.0,22.71,"Bowling Green, KY",KY,High (40-49%),14540.0,845.0
+54,"Bremerton-Silverdale-Port Orchard, WA Metro Area",31981,3489,2454,2653,6947,1635,93675,14740,15543,6947,48.6,21.72,"Bremerton-Silverdale-Port Orchard, WA",WA,High (40-49%),14740.0,1765.0
+55,"Bridgeport-Stamford-Norwalk, CT Metro Area",118930,10136,7865,10736,31775,1751,107351,14860,60512,31775,50.88,26.72,"Bridgeport-Stamford-Norwalk, CT",CT,Very High (50%+),14860.0,1371.0
+56,"Bridgeport-Stamford-Norwalk, CT Metro Area",118930,10136,7865,10736,31775,1751,107351,14860,60512,31775,50.88,26.72,"Bridgeport-Stamford-Norwalk, CT",CT,Very High (50%+),14860.0,1810.0
+57,"Bridgeport-Stamford-Norwalk, CT Metro Area",118930,10136,7865,10736,31775,1751,107351,14860,60512,31775,50.88,26.72,"Bridgeport-Stamford-Norwalk, CT",CT,Very High (50%+),14860.0,2230.0
+58,"Brownsville-Harlingen, TX Metro Area",46015,4150,2743,3614,10623,855,47435,15180,21130,10623,45.92,23.09,"Brownsville-Harlingen, TX",TX,High (40-49%),15180.0,803.0
+59,"Brunswick, GA Metro Area",13747,762,953,1310,2595,972,60777,15260,5620,2595,40.88,18.88,"Brunswick, GA",GA,High (40-49%),15260.0,894.0
+60,"Buffalo-Cheektowaga, NY Metro Area",167999,12636,9838,12652,42166,956,67638,15380,77292,42166,46.01,25.1,"Buffalo-Cheektowaga, NY",NY,High (40-49%),15380.0,963.0
+61,"Burlington, NC Metro Area",22883,1699,1220,2189,4787,959,60866,15500,9895,4787,43.24,20.92,"Burlington, NC",NC,High (40-49%),15500.0,891.0
+62,"Burlington-South Burlington, VT Metro Area",29961,2957,2074,2579,7810,1447,86183,15540,15420,7810,51.47,26.07,"Burlington-South Burlington, VT",VT,Very High (50%+),,
+63,"California-Lexington Park, MD Metro Area",11346,544,693,573,2602,1595,113668,15680,4412,2602,38.89,22.93,"California-Lexington Park, MD",MD,Moderate (30-39%),15680.0,1372.0
+64,"Canton-Massillon, OH Metro Area",51907,4173,3010,3944,9484,835,62859,15940,20611,9484,39.71,18.27,"Canton-Massillon, OH",OH,Moderate (30-39%),15940.0,768.0
+65,"Cape Coral-Fort Myers, FL Metro Area",83206,7339,6183,8014,22717,1466,69368,15980,44253,22717,53.18,27.3,"Cape Coral-Fort Myers, FL",FL,Very High (50%+),15980.0,1231.0
+66,"Cape Girardeau, MO-IL Metro Area",11493,851,852,712,2492,842,62671,16020,4907,2492,42.7,21.68,"Cape Girardeau, MO-IL",MO,High (40-49%),16020.0,807.0
+67,"Carbondale-Marion, IL Metro Area",20814,1871,1472,1663,4962,779,53747,16060,9968,4962,47.89,23.84,"Carbondale-Marion, IL",IL,High (40-49%),16060.0,781.0
+68,"Carson City, NV Metro Area",8905,1094,642,439,1790,1127,67465,16180,3965,1790,44.53,20.1,"Carson City, NV",NV,High (40-49%),16180.0,1108.0
+69,"Casper, WY Metro Area",8958,565,607,938,1709,945,69104,16220,3819,1709,42.63,19.08,"Casper, WY",WY,High (40-49%),16220.0,856.0
+70,"Cedar Rapids, IA Metro Area",27608,2116,1567,2067,5232,863,75477,16300,10982,5232,39.78,18.95,"Cedar Rapids, IA",IA,Moderate (30-39%),16300.0,814.0
+71,"Chambersburg-Waynesboro, PA Metro Area",16945,1548,984,1153,2916,1019,71808,16540,6601,2916,38.96,17.21,"Chambersburg-Waynesboro, PA",PA,Moderate (30-39%),16540.0,939.0
+72,"Champaign-Urbana, IL Metro Area",39445,2696,2072,2999,10499,975,62281,16580,18266,10499,46.31,26.62,"Champaign-Urbana, IL",IL,High (40-49%),16580.0,977.0
+73,"Charleston, WV Metro Area",29907,2106,1649,2008,6015,841,54473,16620,11778,6015,39.38,20.11,"Charleston, WV",WV,Moderate (30-39%),16620.0,833.0
+74,"Charleston, WV Metro Area",29907,2106,1649,2008,6015,841,54473,16620,11778,6015,39.38,20.11,"Charleston, WV",WV,Moderate (30-39%),16620.0,710.0
+75,"Charleston, WV Metro Area",29907,2106,1649,2008,6015,841,54473,16620,11778,6015,39.38,20.11,"Charleston, WV",WV,Moderate (30-39%),16620.0,705.0
+76,"Charleston-North Charleston, SC Metro Area",100827,8107,6848,9630,23943,1402,77460,16700,48528,23943,48.13,23.75,"Charleston-North Charleston, SC",SC,High (40-49%),16700.0,1372.0
+77,"Charlotte-Concord-Gastonia, NC-SC Metro Area",348582,30392,22009,29353,70959,1279,76177,16740,152713,70959,43.81,20.36,"Charlotte-Concord-Gastonia, NC-SC",NC,High (40-49%),16740.0,805.0
+78,"Charlotte-Concord-Gastonia, NC-SC Metro Area",348582,30392,22009,29353,70959,1279,76177,16740,152713,70959,43.81,20.36,"Charlotte-Concord-Gastonia, NC-SC",NC,High (40-49%),16740.0,1155.0
+79,"Charlottesville, VA Metro Area",29814,2452,1775,2275,6993,1445,86188,16820,13495,6993,45.26,23.46,"Charlottesville, VA",VA,High (40-49%),16820.0,1264.0
+80,"Chattanooga, TN-GA Metro Area",71328,5182,4760,5641,13818,1000,65387,16860,29401,13818,41.22,19.37,"Chattanooga, TN-GA",TN,High (40-49%),16860.0,883.0
+81,"Cheyenne, WY Metro Area",11515,1201,720,1068,1955,1043,76282,16940,4944,1955,42.94,16.98,"Cheyenne, WY",WY,High (40-49%),16940.0,890.0
+82,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,1340.0
+83,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,1044.0
+84,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,959.0
+85,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,1205.0
+86,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,1303.0
+87,"Chicago-Naperville-Elgin, IL-IN-WI Metro Area",1270077,103199,73975,101075,293931,1310,85087,16980,572180,293931,45.05,23.14,"Chicago-Naperville-Elgin, IL-IN-WI",IL,High (40-49%),16980.0,1066.0
+88,"Chico, CA Metro Area",34895,2571,2397,3490,9811,1280,66085,17020,18269,9811,52.35,28.12,"Chico, CA",CA,Very High (50%+),17020.0,1177.0
+89,"Cincinnati, OH-KY-IN Metro Area",286425,20884,16625,19797,61645,990,76247,17140,118951,61645,41.53,21.52,"Cincinnati, OH-KY-IN",OH,High (40-49%),17140.0,793.0
+90,"Cincinnati, OH-KY-IN Metro Area",286425,20884,16625,19797,61645,990,76247,17140,118951,61645,41.53,21.52,"Cincinnati, OH-KY-IN",OH,High (40-49%),17140.0,968.0
+91,"Cincinnati, OH-KY-IN Metro Area",286425,20884,16625,19797,61645,990,76247,17140,118951,61645,41.53,21.52,"Cincinnati, OH-KY-IN",OH,High (40-49%),17140.0,812.0
+92,"Cincinnati, OH-KY-IN Metro Area",286425,20884,16625,19797,61645,990,76247,17140,118951,61645,41.53,21.52,"Cincinnati, OH-KY-IN",OH,High (40-49%),17140.0,829.0
+93,"Clarksville, TN-KY Metro Area",45083,3975,2890,4177,8295,1064,62188,17300,19337,8295,42.89,18.4,"Clarksville, TN-KY",TN,High (40-49%),17300.0,910.0
+94,"Clarksville, TN-KY Metro Area",45083,3975,2890,4177,8295,1064,62188,17300,19337,8295,42.89,18.4,"Clarksville, TN-KY",TN,High (40-49%),17300.0,699.0
+95,"Cleveland, TN Metro Area",14738,1228,747,1232,2658,894,60001,17420,5865,2658,39.8,18.04,"Cleveland, TN",TN,Moderate (30-39%),17420.0,830.0
+96,"Cleveland-Elyria, OH Metro Area",307569,25684,16582,22375,68110,957,66481,17460,132751,68110,43.16,22.14,"Cleveland-Elyria, OH",OH,High (40-49%),17460.0,893.0
+97,"Coeur d'Alene, ID Metro Area",18544,1853,1680,2004,3625,1216,71949,17660,9162,3625,49.41,19.55,"Coeur d'Alene, ID",ID,High (40-49%),17660.0,1047.0
+98,"College Station-Bryan, TX Metro Area",49065,3379,3203,4637,15199,1107,58659,17780,26418,15199,53.84,30.98,"College Station-Bryan, TX",TX,Very High (50%+),17780.0,975.0
+99,"Colorado Springs, CO Metro Area",95470,9064,7708,9624,23093,1508,82334,17820,49489,23093,51.84,24.19,"Colorado Springs, CO",CO,Very High (50%+),17820.0,1302.0
+100,"Columbia, MO Metro Area",33546,2234,1790,3040,8863,981,65863,17860,15927,8863,47.48,26.42,"Columbia, MO",MO,High (40-49%),17860.0,878.0
+101,"Columbia, MO Metro Area",33546,2234,1790,3040,8863,981,65863,17860,15927,8863,47.48,26.42,"Columbia, MO",MO,High (40-49%),17860.0,713.0
+102,"Columbia, MO Metro Area",33546,2234,1790,3040,8863,981,65863,17860,15927,8863,47.48,26.42,"Columbia, MO",MO,High (40-49%),17860.0,689.0
+103,"Columbia, SC Metro Area",102879,8159,6021,8438,26837,1096,63471,17900,49455,26837,48.07,26.09,"Columbia, SC",SC,High (40-49%),17900.0,990.0
+104,"Columbus, GA-AL Metro Area",53949,4233,3182,4521,12055,999,55720,17980,23991,12055,44.47,22.35,"Columbus, GA-AL",GA,High (40-49%),17980.0,827.0
+105,"Columbus, GA-AL Metro Area",53949,4233,3182,4521,12055,999,55720,17980,23991,12055,44.47,22.35,"Columbus, GA-AL",GA,High (40-49%),17980.0,704.0
+106,"Columbus, GA-AL Metro Area",53949,4233,3182,4521,12055,999,55720,17980,23991,12055,44.47,22.35,"Columbus, GA-AL",GA,High (40-49%),17980.0,704.0
+107,"Columbus, IN Metro Area",9782,620,448,436,1828,1063,76912,18020,3332,1828,34.06,18.69,"Columbus, IN",IN,Moderate (30-39%),18020.0,953.0
+108,"Columbus, OH Metro Area",323450,25277,18545,23736,64495,1146,76541,18140,132053,64495,40.83,19.94,"Columbus, OH",OH,High (40-49%),18140.0,1032.0
+109,"Corpus Christi, TX Metro Area",60538,4843,4409,5319,14027,1183,64005,18580,28598,14027,47.24,23.17,"Corpus Christi, TX",TX,High (40-49%),18580.0,1118.0
+110,"Corvallis, OR Metro Area",16662,1025,970,1423,5890,1315,72882,18700,9308,5890,55.86,35.35,"Corvallis, OR",OR,Very High (50%+),18700.0,1272.0
+111,"Crestview-Fort Walton Beach-Destin, FL Metro Area",34312,3876,2707,3706,6924,1391,74279,18880,17213,6924,50.17,20.18,"Crestview-Fort Walton Beach-Destin, FL",FL,Very High (50%+),18880.0,1172.0
+112,"Cumberland, MD-WV Metro Area",10209,829,455,985,1779,735,57539,19060,4048,1779,39.65,17.43,"Cumberland, MD-WV",MD,Moderate (30-39%),19060.0,757.0
+113,"Dallas-Fort Worth-Arlington, TX Metro Area",1105476,100523,76784,104447,239350,1409,83398,19100,521104,239350,47.14,21.65,"Dallas-Fort Worth-Arlington, TX",TX,High (40-49%),19100.0,1362.0
+114,"Dallas-Fort Worth-Arlington, TX Metro Area",1105476,100523,76784,104447,239350,1409,83398,19100,521104,239350,47.14,21.65,"Dallas-Fort Worth-Arlington, TX",TX,High (40-49%),19100.0,1269.0
+115,"Dalton, GA Metro Area",15405,1021,904,1544,2411,833,60017,19140,5880,2411,38.17,15.65,"Dalton, GA",GA,Moderate (30-39%),19140.0,806.0
+116,"Danville, IL Metro Area",9123,849,515,427,1749,769,52787,19180,3540,1749,38.8,19.17,"Danville, IL",IL,Moderate (30-39%),19180.0,802.0
+117,"Daphne-Fairhope-Foley, AL Metro Area",20094,1527,1142,2053,4227,1160,71039,19300,8949,4227,44.54,21.04,"Daphne-Fairhope-Foley, AL",AL,High (40-49%),19300.0,1017.0
+118,"Davenport-Moline-Rock Island, IA-IL Metro Area",46638,3550,2694,4073,8991,875,68395,19340,19308,8991,41.4,19.28,"Davenport-Moline-Rock Island, IA-IL",IA,High (40-49%),19340.0,805.0
+119,"Dayton-Kettering, OH Metro Area",119753,10415,6498,8205,24253,941,67088,19430,49371,24253,41.23,20.25,"Dayton-Kettering, OH",OH,High (40-49%),,
+120,"Decatur, AL Metro Area",15720,1297,446,1297,2724,772,60036,19460,5764,2724,36.67,17.33,"Decatur, AL",AL,Moderate (30-39%),19460.0,720.0
+121,"Decatur, IL Metro Area",13472,1059,589,747,2631,774,59622,19500,5026,2631,37.31,19.53,"Decatur, IL",IL,Moderate (30-39%),19500.0,794.0
+122,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",74758,5773,4947,7667,20025,1311,64197,19660,38412,20025,51.38,26.79,"Deltona-Daytona Beach-Ormond Beach, FL",FL,Very High (50%+),19660.0,1135.0
+123,"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",74758,5773,4947,7667,20025,1311,64197,19660,38412,20025,51.38,26.79,"Deltona-Daytona Beach-Ormond Beach, FL",FL,Very High (50%+),19660.0,1193.0
+124,"Denver-Aurora-Lakewood, CO Metro Area",421824,41919,28382,38530,98838,1706,96920,19740,207669,98838,49.23,23.43,"Denver-Aurora-Lakewood, CO",CO,High (40-49%),19740.0,1659.0
+125,"Des Moines-West Des Moines, IA Metro Area",86217,7233,5249,6351,15465,1063,81103,19780,34298,15465,39.78,17.94,"Des Moines-West Des Moines, IA",IA,Moderate (30-39%),19780.0,935.0
+126,"Des Moines-West Des Moines, IA Metro Area",86217,7233,5249,6351,15465,1063,81103,19780,34298,15465,39.78,17.94,"Des Moines-West Des Moines, IA",IA,Moderate (30-39%),19780.0,757.0
+127,"Detroit-Warren-Dearborn, MI Metro Area",513025,42672,28581,39484,123691,1112,72456,19820,234428,123691,45.7,24.11,"Detroit-Warren-Dearborn, MI",MI,High (40-49%),19820.0,1084.0
+128,"Detroit-Warren-Dearborn, MI Metro Area",513025,42672,28581,39484,123691,1112,72456,19820,234428,123691,45.7,24.11,"Detroit-Warren-Dearborn, MI",MI,High (40-49%),19820.0,1125.0
+129,"Dothan, AL Metro Area",18100,1324,821,1207,3841,822,54171,20020,7193,3841,39.74,21.22,"Dothan, AL",AL,Moderate (30-39%),20020.0,705.0
+130,"Dover, DE Metro Area",20352,1954,1438,1828,4975,1224,69278,20100,10195,4975,50.09,24.44,"Dover, DE",DE,Very High (50%+),20100.0,1002.0
+131,"Dubuque, IA Metro Area",10673,656,589,705,2680,912,73495,20220,4630,2680,43.38,25.11,"Dubuque, IA",IA,High (40-49%),20220.0,834.0
+132,"Duluth, MN-WI Metro Area",33355,3185,1805,2602,7626,909,67612,20260,15218,7626,45.62,22.86,"Duluth, MN-WI",MN,High (40-49%),20260.0,936.0
+133,"Duluth, MN-WI Metro Area",33355,3185,1805,2602,7626,909,67612,20260,15218,7626,45.62,22.86,"Duluth, MN-WI",MN,High (40-49%),20260.0,826.0
+134,"Durham-Chapel Hill, NC Metro Area",94981,9245,5434,6877,21459,1249,76040,20500,43015,21459,45.29,22.59,"Durham-Chapel Hill, NC",NC,High (40-49%),20500.0,1199.0
+135,"Durham-Chapel Hill, NC Metro Area",94981,9245,5434,6877,21459,1249,76040,20500,43015,21459,45.29,22.59,"Durham-Chapel Hill, NC",NC,High (40-49%),20500.0,863.0
+136,"East Stroudsburg, PA Metro Area",12589,1108,581,1280,3386,1311,80656,20700,6355,3386,50.48,26.9,"East Stroudsburg, PA",PA,Very High (50%+),20700.0,1153.0
+137,"Eau Claire, WI Metro Area",22395,1679,1263,1571,3965,925,70009,20740,8478,3965,37.86,17.7,"Eau Claire, WI",WI,Moderate (30-39%),20740.0,836.0
+138,"El Centro, CA Metro Area",19902,1839,1543,1537,5146,961,53847,20940,10065,5146,50.57,25.86,"El Centro, CA",CA,Very High (50%+),20940.0,1065.0
+139,"Elizabethtown-Fort Knox, KY Metro Area",20407,1161,982,1226,2978,902,64111,21060,6347,2978,31.1,14.59,"Elizabethtown-Fort Knox, KY",KY,Moderate (30-39%),21060.0,835.0
+140,"Elkhart-Goshen, IN Metro Area",20633,1944,1203,1573,4275,945,63978,21140,8995,4275,43.6,20.72,"Elkhart-Goshen, IN",IN,High (40-49%),21140.0,865.0
+141,"Elmira, NY Metro Area",10978,1045,605,783,2958,991,61358,21300,5391,2958,49.11,26.94,"Elmira, NY",NY,High (40-49%),21300.0,944.0
+142,"El Paso, TX Metro Area",108524,9244,7411,10141,24594,977,55344,21340,51390,24594,47.35,22.66,"El Paso, TX",TX,High (40-49%),21340.0,840.0
+143,"Enid, OK Metro Area",8158,610,520,542,1405,868,64165,21420,3077,1405,37.72,17.22,"Enid, OK",OK,Moderate (30-39%),21420.0,866.0
+144,"Erie, PA Metro Area",35065,2727,2144,2760,8926,851,59396,21500,16557,8926,47.22,25.46,"Erie, PA",PA,High (40-49%),21500.0,848.0
+145,"Eugene-Springfield, OR Metro Area",64535,5535,3668,5982,17207,1210,65157,21660,32392,17207,50.19,26.66,"Eugene-Springfield, OR",OR,Very High (50%+),21660.0,1254.0
+146,"Evansville, IN-KY Metro Area",39932,2592,2199,3373,8712,908,64084,21780,16876,8712,42.26,21.82,"Evansville, IN-KY",IN,High (40-49%),21780.0,880.0
+147,"Fairbanks, AK Metro Area",14330,1168,730,1700,2570,1360,81655,21820,6168,2570,43.04,17.93,"Fairbanks, AK",AK,High (40-49%),21820.0,1320.0
+148,"Fargo, ND-MN Metro Area",46553,3591,2582,3701,9230,919,73641,22020,19104,9230,41.04,19.83,"Fargo, ND-MN",ND,High (40-49%),22020.0,859.0
+149,"Farmington, NM Metro Area",12171,863,542,857,2390,894,50734,22140,4652,2390,38.22,19.64,"Farmington, NM",NM,Moderate (30-39%),22140.0,850.0
+150,"Fayetteville, NC Metro Area",80727,6269,4978,7839,17668,1085,57488,22180,36754,17668,45.53,21.89,"Fayetteville, NC",NC,High (40-49%),22180.0,913.0
+151,"Fayetteville, NC Metro Area",80727,6269,4978,7839,17668,1085,57488,22180,36754,17668,45.53,21.89,"Fayetteville, NC",NC,High (40-49%),22180.0,856.0
+152,"Fayetteville-Springdale-Rogers, AR Metro Area",77362,6267,4138,4601,12221,1010,73316,22220,27227,12221,35.19,15.8,"Fayetteville-Springdale-Rogers, AR",AR,Moderate (30-39%),22220.0,865.0
+153,"Flagstaff, AZ Metro Area",21288,1920,1433,1771,5337,1353,67266,22380,10461,5337,49.14,25.07,"Flagstaff, AZ",AZ,High (40-49%),22380.0,1474.0
+154,"Flint, MI Metro Area",49178,3830,3264,3811,12446,893,58594,22420,23351,12446,47.48,25.31,"Flint, MI",MI,High (40-49%),22420.0,821.0
+155,"Florence, SC Metro Area",26195,1374,1416,2446,5626,848,52401,22500,10862,5626,41.47,21.48,"Florence, SC",SC,High (40-49%),22500.0,832.0
+156,"Florence-Muscle Shoals, AL Metro Area",19168,1499,790,1344,3200,787,56113,22520,6833,3200,35.65,16.69,"Florence-Muscle Shoals, AL",AL,Moderate (30-39%),22520.0,751.0
+157,"Fond du Lac, WI Metro Area",12437,1133,651,988,1898,892,70368,22540,4670,1898,37.55,15.26,"Fond du Lac, WI",WI,Moderate (30-39%),22540.0,833.0
+158,"Fort Collins, CO Metro Area",52796,4395,3346,4688,14113,1584,87199,22660,26542,14113,50.27,26.73,"Fort Collins, CO",CO,Very High (50%+),22660.0,1421.0
+159,"Fort Smith, AR-OK Metro Area",32262,2154,1857,2845,5461,791,53224,22900,12317,5461,38.18,16.93,"Fort Smith, AR-OK",AR,Moderate (30-39%),22900.0,740.0
+160,"Fort Smith, AR-OK Metro Area",32262,2154,1857,2845,5461,791,53224,22900,12317,5461,38.18,16.93,"Fort Smith, AR-OK",AR,Moderate (30-39%),22900.0,649.0
+161,"Fort Wayne, IN Metro Area",48941,3986,2661,3521,9932,922,66758,23060,20100,9932,41.07,20.29,"Fort Wayne, IN",IN,High (40-49%),23060.0,822.0
+162,"Fresno, CA Metro Area",145867,12365,9819,13543,38249,1207,67756,23420,73976,38249,50.71,26.22,"Fresno, CA",CA,Very High (50%+),23420.0,1137.0
+163,"Gadsden, AL Metro Area",10337,752,475,883,2182,779,52177,23460,4292,2182,41.52,21.11,"Gadsden, AL",AL,High (40-49%),23460.0,710.0
+164,"Gainesville, FL Metro Area",54195,3717,3285,4446,17054,1157,56638,23540,28502,17054,52.59,31.47,"Gainesville, FL",FL,Very High (50%+),23540.0,1038.0
+165,"Gainesville, FL Metro Area",54195,3717,3285,4446,17054,1157,56638,23540,28502,17054,52.59,31.47,"Gainesville, FL",FL,Very High (50%+),23540.0,757.0
+166,"Gainesville, GA Metro Area",20817,1487,1784,2028,4518,1179,74153,23580,9817,4518,47.16,21.7,"Gainesville, GA",GA,High (40-49%),23580.0,1028.0
+167,"Gettysburg, PA Metro Area",8742,679,487,677,1472,1060,78975,23900,3315,1472,37.92,16.84,"Gettysburg, PA",PA,Moderate (30-39%),23900.0,1032.0
+168,"Glens Falls, NY Metro Area",15065,1560,762,1075,3201,1015,71380,24020,6598,3201,43.8,21.25,"Glens Falls, NY",NY,High (40-49%),24020.0,1065.0
+169,"Goldsboro, NC Metro Area",18151,1804,941,1661,3420,899,54323,24140,7826,3420,43.12,18.84,"Goldsboro, NC",NC,High (40-49%),24140.0,849.0
+170,"Grand Forks, ND-MN Metro Area",18562,1289,1278,1703,3862,918,65971,24220,8132,3862,43.81,20.81,"Grand Forks, ND-MN",ND,High (40-49%),24220.0,854.0
+171,"Grand Island, NE Metro Area",10371,1145,454,1017,1518,870,63314,24260,4134,1518,39.86,14.64,"Grand Island, NE",NE,Moderate (30-39%),,
+172,"Grand Junction, CO Metro Area",17781,1079,1233,1416,4021,1089,68077,24300,7749,4021,43.58,22.61,"Grand Junction, CO",CO,High (40-49%),24300.0,1026.0
+173,"Grand Rapids-Kentwood, MI Metro Area",109085,10174,7303,8584,22843,1078,76898,24340,48904,22843,44.83,20.94,"Grand Rapids-Kentwood, MI",MI,High (40-49%),24340.0,1041.0
+174,"Grand Rapids-Kentwood, MI Metro Area",109085,10174,7303,8584,22843,1078,76898,24340,48904,22843,44.83,20.94,"Grand Rapids-Kentwood, MI",MI,High (40-49%),24340.0,971.0
+175,"Grand Rapids-Kentwood, MI Metro Area",109085,10174,7303,8584,22843,1078,76898,24340,48904,22843,44.83,20.94,"Grand Rapids-Kentwood, MI",MI,High (40-49%),24340.0,884.0
+176,"Grants Pass, OR Metro Area",10645,1046,987,921,2956,1093,56068,24420,5910,2956,55.52,27.77,"Grants Pass, OR",OR,Very High (50%+),24420.0,1116.0
+177,"Great Falls, MT Metro Area",11060,788,616,1075,1958,866,61351,24500,4437,1958,40.12,17.7,"Great Falls, MT",MT,High (40-49%),24500.0,849.0
+178,"Greeley, CO Metro Area",28700,2404,2102,2624,6881,1351,89182,24540,14011,6881,48.82,23.98,"Greeley, CO",CO,High (40-49%),24540.0,1272.0
+179,"Green Bay, WI Metro Area",42160,3990,2133,2996,6915,924,74208,24580,16034,6915,38.03,16.4,"Green Bay, WI",WI,Moderate (30-39%),24580.0,875.0
+180,"Greensboro-High Point, NC Metro Area",111875,9563,7295,10856,23051,985,59567,24660,50765,23051,45.38,20.6,"Greensboro-High Point, NC",NC,High (40-49%),24660.0,952.0
+181,"Greenville, NC Metro Area",35193,2762,1835,2391,8675,911,54915,24780,15663,8675,44.51,24.65,"Greenville, NC",NC,High (40-49%),24780.0,910.0
+182,"Greenville-Anderson, SC Metro Area",108358,9003,6651,8450,24452,1026,66226,24860,48556,24452,44.81,22.57,"Greenville-Anderson, SC",SC,High (40-49%),24860.0,833.0
+183,"Greenville-Anderson, SC Metro Area",108358,9003,6651,8450,24452,1026,66226,24860,48556,24452,44.81,22.57,"Greenville-Anderson, SC",SC,High (40-49%),24860.0,992.0
+184,"Gulfport-Biloxi, MS Metro Area",53527,4097,3151,4823,12349,1010,58287,25060,24420,12349,45.62,23.07,"Gulfport-Biloxi, MS",MS,High (40-49%),25060.0,863.0
+185,"Gulfport-Biloxi, MS Metro Area",53527,4097,3151,4823,12349,1010,58287,25060,24420,12349,45.62,23.07,"Gulfport-Biloxi, MS",MS,High (40-49%),25060.0,846.0
+186,"Gulfport-Biloxi, MS Metro Area",53527,4097,3151,4823,12349,1010,58287,25060,24420,12349,45.62,23.07,"Gulfport-Biloxi, MS",MS,High (40-49%),25060.0,705.0
+187,"Hagerstown-Martinsburg, MD-WV Metro Area",33481,3210,2229,2111,6589,1076,72751,25180,14139,6589,42.23,19.68,"Hagerstown-Martinsburg, MD-WV",MD,High (40-49%),25180.0,972.0
+188,"Hagerstown-Martinsburg, MD-WV Metro Area",33481,3210,2229,2111,6589,1076,72751,25180,14139,6589,42.23,19.68,"Hagerstown-Martinsburg, MD-WV",MD,High (40-49%),25180.0,991.0
+189,"Hagerstown-Martinsburg, MD-WV Metro Area",33481,3210,2229,2111,6589,1076,72751,25180,14139,6589,42.23,19.68,"Hagerstown-Martinsburg, MD-WV",MD,High (40-49%),25180.0,785.0
+190,"Hammond, LA Metro Area",13280,830,625,1360,3629,930,55274,25220,6444,3629,48.52,27.33,"Hammond, LA",LA,High (40-49%),25220.0,913.0
+191,"Hanford-Corcoran, CA Metro Area",19670,1818,1139,1632,3936,1201,68540,25260,8525,3936,43.34,20.01,"Hanford-Corcoran, CA",CA,High (40-49%),25260.0,1162.0
+192,"Harrisburg-Carlisle, PA Metro Area",77726,5849,3925,5934,14986,1098,76189,25420,30694,14986,39.49,19.28,"Harrisburg-Carlisle, PA",PA,Moderate (30-39%),,
+193,"Harrisonburg, VA Metro Area",18435,1345,754,1085,4037,1068,66823,25500,7221,4037,39.17,21.9,"Harrisonburg, VA",VA,Moderate (30-39%),25500.0,951.0
+194,"Hartford-East Hartford-Middletown, CT Metro Area",160785,13422,9970,13016,39299,1297,89371,25540,75707,39299,47.09,24.44,"Hartford-East Hartford-Middletown, CT",CT,High (40-49%),25540.0,1302.0
+195,"Hartford-East Hartford-Middletown, CT Metro Area",160785,13422,9970,13016,39299,1297,89371,25540,75707,39299,47.09,24.44,"Hartford-East Hartford-Middletown, CT",CT,High (40-49%),25540.0,1441.0
+196,"Hattiesburg, MS Metro Area",23726,1458,1291,2075,5201,939,55078,25620,10025,5201,42.25,21.92,"Hattiesburg, MS",MS,High (40-49%),25620.0,705.0
+197,"Hattiesburg, MS Metro Area",23726,1458,1291,2075,5201,939,55078,25620,10025,5201,42.25,21.92,"Hattiesburg, MS",MS,High (40-49%),25620.0,868.0
+198,"Hickory-Lenoir-Morganton, NC Metro Area",37822,2841,1802,2657,5711,797,57943,25860,13011,5711,34.4,15.1,"Hickory-Lenoir-Morganton, NC",NC,Moderate (30-39%),25860.0,724.0
+199,"Hilton Head Island-Bluffton, SC Metro Area",21740,1488,1578,2035,4308,1400,77536,25940,9409,4308,43.28,19.82,"Hilton Head Island-Bluffton, SC",SC,High (40-49%),,
+200,"Hinesville, GA Metro Area",14091,1359,1266,933,2653,1146,55427,25980,6211,2653,44.08,18.83,"Hinesville, GA",GA,High (40-49%),25980.0,1016.0
+201,"Homosassa Springs, FL Metro Area",9890,750,631,668,2710,1000,52569,26140,4759,2710,48.12,27.4,"Homosassa Springs, FL",FL,High (40-49%),26140.0,943.0
+202,"Hot Springs, AR Metro Area",13711,1037,647,756,2615,913,54229,26300,5055,2615,36.87,19.07,"Hot Springs, AR",AR,Moderate (30-39%),26300.0,807.0
+203,"Houma-Thibodaux, LA Metro Area",18709,1340,1401,1069,3975,927,62443,26380,7785,3975,41.61,21.25,"Houma-Thibodaux, LA",LA,High (40-49%),26380.0,890.0
+204,"Houston-The Woodlands-Sugar Land, TX Metro Area",982172,84560,68827,88772,230882,1301,78061,26420,473041,230882,48.16,23.51,"Houston-The Woodlands-Sugar Land, TX",TX,High (40-49%),26420.0,1179.0
+205,"Houston-The Woodlands-Sugar Land, TX Metro Area",982172,84560,68827,88772,230882,1301,78061,26420,473041,230882,48.16,23.51,"Houston-The Woodlands-Sugar Land, TX",TX,High (40-49%),26420.0,1208.0
+206,"Huntington-Ashland, WV-KY-OH Metro Area",38131,2535,1718,2428,9013,840,55964,26580,15694,9013,41.16,23.64,"Huntington-Ashland, WV-KY-OH",WV,High (40-49%),26580.0,674.0
+207,"Huntington-Ashland, WV-KY-OH Metro Area",38131,2535,1718,2428,9013,840,55964,26580,15694,9013,41.16,23.64,"Huntington-Ashland, WV-KY-OH",WV,High (40-49%),26580.0,791.0
+208,"Huntington-Ashland, WV-KY-OH Metro Area",38131,2535,1718,2428,9013,840,55964,26580,15694,9013,41.16,23.64,"Huntington-Ashland, WV-KY-OH",WV,High (40-49%),26580.0,940.0
+209,"Huntsville, AL Metro Area",59628,4757,3165,3962,11477,1016,78521,26620,23361,11477,39.18,19.25,"Huntsville, AL",AL,Moderate (30-39%),26620.0,897.0
+210,"Idaho Falls, ID Metro Area",14211,948,1010,1121,2157,968,73337,26820,5236,2157,36.84,15.18,"Idaho Falls, ID",ID,Moderate (30-39%),26820.0,865.0
+211,"Indianapolis-Carmel-Anderson, IN Metro Area",277043,24989,17508,22355,59637,1081,73571,26900,124489,59637,44.93,21.53,"Indianapolis-Carmel-Anderson, IN",IN,High (40-49%),26900.0,796.0
+212,"Indianapolis-Carmel-Anderson, IN Metro Area",277043,24989,17508,22355,59637,1081,73571,26900,124489,59637,44.93,21.53,"Indianapolis-Carmel-Anderson, IN",IN,High (40-49%),26900.0,939.0
+213,"Iowa City, IA Metro Area",27631,2307,1646,2497,7800,1057,72680,26980,14250,7800,51.57,28.23,"Iowa City, IA",IA,Very High (50%+),26980.0,1063.0
+214,"Ithaca, NY Metro Area",19656,1433,1113,1345,6710,1320,69995,27060,10601,6710,53.93,34.14,"Ithaca, NY",NY,Very High (50%+),27060.0,1365.0
+215,"Jackson, MI Metro Area",15865,1015,977,1251,3545,920,62581,27100,6788,3545,42.79,22.34,"Jackson, MI",MI,High (40-49%),27100.0,866.0
+216,"Jackson, MS Metro Area",73060,7095,4495,5919,16515,1012,60085,27140,34024,16515,46.57,22.6,"Jackson, MS",MS,High (40-49%),27140.0,705.0
+217,"Jackson, MS Metro Area",73060,7095,4495,5919,16515,1012,60085,27140,34024,16515,46.57,22.6,"Jackson, MS",MS,High (40-49%),27140.0,947.0
+218,"Jackson, TN Metro Area",24662,2181,1366,2159,5610,903,55807,27180,11316,5610,45.88,22.75,"Jackson, TN",TN,High (40-49%),27180.0,708.0
+219,"Jackson, TN Metro Area",24662,2181,1366,2159,5610,903,55807,27180,11316,5610,45.88,22.75,"Jackson, TN",TN,High (40-49%),27180.0,845.0
+220,"Jacksonville, FL Metro Area",212834,21820,13506,20475,48767,1315,73194,27260,104568,48767,49.13,22.91,"Jacksonville, FL",FL,High (40-49%),27260.0,1188.0
+221,"Jacksonville, NC Metro Area",29164,2777,1283,3024,6311,1132,59976,27340,13395,6311,45.93,21.64,"Jacksonville, NC",NC,High (40-49%),27340.0,876.0
+222,"Janesville-Beloit, WI Metro Area",19977,1616,1147,1405,3599,981,70630,27500,7767,3599,38.88,18.02,"Janesville-Beloit, WI",WI,Moderate (30-39%),27500.0,915.0
+223,"Jefferson City, MO Metro Area",15701,1084,870,895,2237,776,70195,27620,5086,2237,32.39,14.25,"Jefferson City, MO",MO,Moderate (30-39%),27620.0,694.0
+224,"Johnson City, TN Metro Area",28283,1890,1434,2392,5271,845,54217,27740,10987,5271,38.85,18.64,"Johnson City, TN",TN,Moderate (30-39%),27740.0,781.0
+225,"Johnstown, PA Metro Area",13453,812,570,867,2810,700,54221,27780,5059,2810,37.6,20.89,"Johnstown, PA",PA,Moderate (30-39%),27780.0,757.0
+226,"Jonesboro, AR Metro Area",20376,1649,1039,1782,4453,852,52709,27860,8923,4453,43.79,21.85,"Jonesboro, AR",AR,High (40-49%),27860.0,832.0
+227,"Joplin, MO Metro Area",23116,2001,1183,1835,4468,853,56930,27900,9487,4468,41.04,19.33,"Joplin, MO",MO,High (40-49%),27900.0,765.0
+228,"Kahului-Wailuku-Lahaina, HI Metro Area",18970,1436,1150,1679,4649,1805,95379,27980,8914,4649,46.99,24.51,"Kahului-Wailuku-Lahaina, HI",HI,High (40-49%),27980.0,1957.0
+229,"Kalamazoo-Portage, MI Metro Area",38068,3117,2225,3801,8631,994,67905,28020,17774,8631,46.69,22.67,"Kalamazoo-Portage, MI",MI,High (40-49%),28020.0,879.0
+230,"Kankakee, IL Metro Area",12957,1259,694,1230,2953,1025,65489,28100,6136,2953,47.36,22.79,"Kankakee, IL",IL,High (40-49%),28100.0,978.0
+231,"Kansas City, MO-KS Metro Area",301048,24771,17753,24040,60109,1148,78827,28140,126673,60109,42.08,19.97,"Kansas City, MO-KS",MO,High (40-49%),28140.0,1030.0
+232,"Kennewick-Richland, WA Metro Area",32651,2991,2033,3232,6050,1157,82146,28420,14306,6050,43.81,18.53,"Kennewick-Richland, WA",WA,High (40-49%),28420.0,1060.0
+233,"Killeen-Temple, TX Metro Area",73297,6831,5090,6909,14302,1084,63394,28660,33132,14302,45.2,19.51,"Killeen-Temple, TX",TX,High (40-49%),28660.0,815.0
+234,"Kingsport-Bristol, TN-VA Metro Area",33585,2346,1497,2339,5497,778,53644,28700,11679,5497,34.77,16.37,"Kingsport-Bristol, TN-VA",TN,Moderate (30-39%),28700.0,702.0
+235,"Kingston, NY Metro Area",22290,1693,1682,1507,6267,1269,77197,28740,11149,6267,50.02,28.12,"Kingston, NY",NY,Very High (50%+),28740.0,1364.0
+236,"Knoxville, TN Metro Area",107636,8792,5562,8903,21425,1012,66715,28940,44682,21425,41.51,19.91,"Knoxville, TN",TN,High (40-49%),28940.0,980.0
+237,"Kokomo, IN Metro Area",9905,753,580,614,2004,855,62014,29020,3951,2004,39.89,20.23,"Kokomo, IN",IN,Moderate (30-39%),29020.0,738.0
+238,"La Crosse-Onalaska, WI-MN Metro Area",20356,1586,803,1526,4621,977,69043,29100,8536,4621,41.93,22.7,"La Crosse-Onalaska, WI-MN",WI,High (40-49%),29100.0,930.0
+239,"Lafayette, LA Metro Area",57602,3533,3522,5090,12661,918,58150,29180,24806,12661,43.06,21.98,"Lafayette, LA",LA,High (40-49%),29180.0,890.0
+240,"Lafayette-West Lafayette, IN Metro Area",37533,3624,2153,3149,9723,1004,57188,29200,18649,9723,49.69,25.91,"Lafayette-West Lafayette, IN",IN,High (40-49%),29200.0,981.0
+241,"Lafayette-West Lafayette, IN Metro Area",37533,3624,2153,3149,9723,1004,57188,29200,18649,9723,49.69,25.91,"Lafayette-West Lafayette, IN",IN,High (40-49%),29200.0,786.0
+242,"Lake Charles, LA Metro Area",22674,1645,1076,1480,5210,1025,64764,29340,9411,5210,41.51,22.98,"Lake Charles, LA",LA,High (40-49%),29340.0,884.0
+243,"Lake Havasu City-Kingman, AZ Metro Area",26102,2071,1821,2347,4771,976,53592,29420,11010,4771,42.18,18.28,"Lake Havasu City-Kingman, AZ",AZ,High (40-49%),29420.0,969.0
+244,"Lakeland-Winter Haven, FL Metro Area",79810,6298,5465,6961,18607,1192,60901,29460,37331,18607,46.77,23.31,"Lakeland-Winter Haven, FL",FL,High (40-49%),29460.0,1056.0
+245,"Lancaster, PA Metro Area",62803,4738,4363,5022,13435,1221,81458,29540,27558,13435,43.88,21.39,"Lancaster, PA",PA,High (40-49%),29540.0,1148.0
+246,"Lansing-East Lansing, MI Metro Area",71157,5256,4128,6086,17311,1007,68270,29620,32781,17311,46.07,24.33,"Lansing-East Lansing, MI",MI,High (40-49%),29620.0,936.0
+247,"Lansing-East Lansing, MI Metro Area",71157,5256,4128,6086,17311,1007,68270,29620,32781,17311,46.07,24.33,"Lansing-East Lansing, MI",MI,High (40-49%),29620.0,770.0
+248,"Laredo, TX Metro Area",28570,2306,1536,2534,6569,964,59984,29700,12945,6569,45.31,22.99,"Laredo, TX",TX,High (40-49%),29700.0,942.0
+249,"Las Cruces, NM Metro Area",29456,2022,2220,3022,7382,858,51232,29740,14646,7382,49.72,25.06,"Las Cruces, NM",NM,High (40-49%),29740.0,787.0
+250,"Las Vegas-Henderson-Paradise, NV Metro Area",364659,31831,25671,36389,93518,1406,69911,29820,187409,93518,51.39,25.65,"Las Vegas-Henderson-Paradise, NV",NV,Very High (50%+),,
+251,"Lawrence, KS Metro Area",24601,1982,1641,1861,6779,1041,66153,29940,12263,6779,49.85,27.56,"Lawrence, KS",KS,High (40-49%),29940.0,937.0
+252,"Lawton, OK Metro Area",20560,1615,1134,1343,4046,898,57196,30020,8138,4046,39.58,19.68,"Lawton, OK",OK,Moderate (30-39%),30020.0,771.0
+253,"Lebanon, PA Metro Area",15717,1423,749,1535,3323,1023,72532,30140,7030,3323,44.73,21.14,"Lebanon, PA",PA,High (40-49%),30140.0,989.0
+254,"Lewiston, ID-WA Metro Area",7508,667,428,510,1737,907,64488,30300,3342,1737,44.51,23.14,"Lewiston, ID-WA",ID,High (40-49%),30300.0,925.0
+255,"Lewiston-Auburn, ME Metro Area",15375,1324,913,1256,2930,916,64500,30340,6423,2930,41.78,19.06,"Lewiston-Auburn, ME",ME,High (40-49%),30340.0,999.0
+256,"Lexington-Fayette, KY Metro Area",83906,7591,4763,6449,18413,1032,68089,30460,37216,18413,44.35,21.94,"Lexington-Fayette, KY",KY,High (40-49%),30460.0,912.0
+257,"Lima, OH Metro Area",13241,981,929,655,2414,844,58976,30620,4979,2414,37.6,18.23,"Lima, OH",OH,Moderate (30-39%),30620.0,767.0
+258,"Lincoln, NE Metro Area",54635,3925,3658,4120,11399,994,70899,30700,23102,11399,42.28,20.86,"Lincoln, NE",NE,High (40-49%),30700.0,888.0
+259,"Little Rock-North Little Rock-Conway, AR Metro Area",108514,9169,5812,8018,23729,964,62664,30780,46728,23729,43.06,21.87,"Little Rock-North Little Rock-Conway, AR",AR,High (40-49%),30780.0,833.0
+260,"Logan, UT-ID Metro Area",16026,1147,1019,1347,3445,1011,71739,30860,6958,3445,43.42,21.5,"Logan, UT-ID",UT,High (40-49%),30860.0,877.0
+261,"Longview, TX Metro Area",32480,2591,1861,2588,6869,975,62910,30980,13909,6869,42.82,21.15,"Longview, TX",TX,High (40-49%),30980.0,899.0
+262,"Longview, TX Metro Area",32480,2591,1861,2588,6869,975,62910,30980,13909,6869,42.82,21.15,"Longview, TX",TX,High (40-49%),30980.0,924.0
+263,"Longview, WA Metro Area",14503,1396,1139,1293,3091,1090,70912,31020,6919,3091,47.71,21.31,"Longview, WA",WA,High (40-49%),31020.0,1055.0
+264,"Los Angeles-Long Beach-Anaheim, CA Metro Area",2274256,204481,152113,220105,655811,1892,89105,31080,1232510,655811,54.19,28.84,"Los Angeles-Long Beach-Anaheim, CA",CA,Very High (50%+),31080.0,2044.0
+265,"Los Angeles-Long Beach-Anaheim, CA Metro Area",2274256,204481,152113,220105,655811,1892,89105,31080,1232510,655811,54.19,28.84,"Los Angeles-Long Beach-Anaheim, CA",CA,Very High (50%+),31080.0,2324.0
+266,"Louisville/Jefferson County, KY-IN Metro Area",165320,13208,10331,12369,33057,1017,69771,31140,68965,33057,41.72,20.0,"Louisville/Jefferson County, KY-IN",KY,High (40-49%),31140.0,960.0
+267,"Lubbock, TX Metro Area",55189,4583,2564,4398,15289,1082,61535,31180,26834,15289,48.62,27.7,"Lubbock, TX",TX,High (40-49%),31180.0,951.0
+268,"Lynchburg, VA Metro Area",30265,2311,1585,2337,6269,920,64307,31340,12502,6269,41.31,20.71,"Lynchburg, VA",VA,High (40-49%),31340.0,863.0
+269,"Macon-Bibb County, GA Metro Area",32861,2692,1964,2460,9149,946,54700,31420,16265,9149,49.5,27.84,"Macon-Bibb County, GA",GA,High (40-49%),31420.0,846.0
+270,"Madera, CA Metro Area",15138,1470,825,1133,3574,1185,73543,31460,7002,3574,46.25,23.61,"Madera, CA",CA,High (40-49%),31460.0,1198.0
+271,"Madison, WI Metro Area",113175,9339,5995,8721,24090,1228,82996,31540,48145,24090,42.54,21.29,"Madison, WI",WI,High (40-49%),31540.0,1254.0
+272,"Manchester-Nashua, NH Metro Area",54683,6071,3725,4556,11103,1444,95112,31700,25455,11103,46.55,20.3,"Manchester-Nashua, NH",NH,High (40-49%),31700.0,1413.0
+273,"Manhattan, KS Metro Area",24512,1867,1322,2565,5894,1056,61270,31740,11648,5894,47.52,24.05,"Manhattan, KS",KS,High (40-49%),31740.0,883.0
+274,"Manhattan, KS Metro Area",24512,1867,1322,2565,5894,1056,61270,31740,11648,5894,47.52,24.05,"Manhattan, KS",KS,High (40-49%),31740.0,907.0
+275,"Mankato, MN Metro Area",13803,1120,618,1158,3084,978,73472,31860,5980,3084,43.32,22.34,"Mankato, MN",MN,High (40-49%),31860.0,992.0
+276,"Mansfield, OH Metro Area",15876,1381,785,1287,3178,768,56557,31900,6631,3178,41.77,20.02,"Mansfield, OH",OH,High (40-49%),31900.0,738.0
+277,"McAllen-Edinburg-Mission, TX Metro Area",82786,5786,5065,5774,20962,875,49371,32580,37587,20962,45.4,25.32,"McAllen-Edinburg-Mission, TX",TX,High (40-49%),32580.0,817.0
+278,"Medford, OR Metro Area",31425,2766,2109,2994,7476,1208,67690,32780,15345,7476,48.83,23.79,"Medford, OR",OR,High (40-49%),32780.0,1195.0
+279,"Memphis, TN-MS-AR Metro Area",200672,16680,13125,17048,50850,1091,62178,32820,97703,50850,48.69,25.34,"Memphis, TN-MS-AR",TN,High (40-49%),32820.0,912.0
+280,"Merced, CA Metro Area",38604,3044,2342,3208,8142,1200,64772,32900,16736,8142,43.35,21.09,"Merced, CA",CA,High (40-49%),32900.0,1120.0
+281,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",914000,84774,67073,99492,291059,1657,69085,33100,542398,291059,59.34,31.84,"Miami-Fort Lauderdale-Pompano Beach, FL",FL,Very High (50%+),33100.0,1556.0
+282,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",914000,84774,67073,99492,291059,1657,69085,33100,542398,291059,59.34,31.84,"Miami-Fort Lauderdale-Pompano Beach, FL",FL,Very High (50%+),33100.0,1672.0
+283,"Miami-Fort Lauderdale-Pompano Beach, FL Metro Area",914000,84774,67073,99492,291059,1657,69085,33100,542398,291059,59.34,31.84,"Miami-Fort Lauderdale-Pompano Beach, FL",FL,Very High (50%+),33100.0,1578.0
+284,"Michigan City-La Porte, IN Metro Area",11186,938,441,1040,2238,860,66854,33140,4657,2238,41.63,20.01,"Michigan City-La Porte, IN",IN,High (40-49%),33140.0,794.0
+285,"Midland, MI Metro Area",7567,632,441,637,1623,931,73643,33220,3333,1623,44.05,21.45,"Midland, MI",MI,High (40-49%),33220.0,870.0
+286,"Midland, TX Metro Area",22281,1953,883,1647,4808,1366,89345,33260,9291,4808,41.7,21.58,"Midland, TX",TX,High (40-49%),33260.0,1433.0
+287,"Milwaukee-Waukesha, WI Metro Area",258417,20101,15581,21294,59978,1052,72937,33340,116954,59978,45.26,23.21,"Milwaukee-Waukesha, WI",WI,High (40-49%),33340.0,999.0
+288,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",418397,37939,27111,33426,91113,1324,94673,33460,189589,91113,45.31,21.78,"Minneapolis-St. Paul-Bloomington, MN-WI",MN,High (40-49%),33460.0,1329.0
+289,"Missoula, MT Metro Area",20774,1929,1478,1546,4409,1068,66840,33540,9362,4409,45.07,21.22,"Missoula, MT",MT,High (40-49%),33540.0,1020.0
+290,"Mobile, AL Metro Area",58909,5280,3357,4416,14635,970,55247,33660,27688,14635,47.0,24.84,"Mobile, AL",AL,High (40-49%),33660.0,861.0
+291,"Mobile, AL Metro Area",58909,5280,3357,4416,14635,970,55247,33660,27688,14635,47.0,24.84,"Mobile, AL",AL,High (40-49%),33660.0,705.0
+292,"Modesto, CA Metro Area",69388,5121,4523,6318,18004,1433,74872,33700,33966,18004,48.95,25.95,"Modesto, CA",CA,High (40-49%),33700.0,1250.0
+293,"Monroe, LA Metro Area",29126,2294,1361,3032,7751,859,47351,33740,14438,7751,49.57,26.61,"Monroe, LA",LA,High (40-49%),33740.0,815.0
+294,"Monroe, LA Metro Area",29126,2294,1361,3032,7751,859,47351,33740,14438,7751,49.57,26.61,"Monroe, LA",LA,High (40-49%),33740.0,696.0
+295,"Monroe, MI Metro Area",11974,922,966,1330,2370,996,72573,33780,5588,2370,46.67,19.79,"Monroe, MI",MI,High (40-49%),33780.0,941.0
+296,"Montgomery, AL Metro Area",52121,3142,2820,4205,12795,1032,60849,33860,22962,12795,44.06,24.55,"Montgomery, AL",AL,High (40-49%),33860.0,914.0
+297,"Morgantown, WV Metro Area",21440,1558,770,1967,6359,914,60670,34060,10654,6359,49.69,29.66,"Morgantown, WV",WV,High (40-49%),34060.0,892.0
+298,"Morristown, TN Metro Area",15729,1271,947,1249,3039,803,52913,34100,6506,3039,41.36,19.32,"Morristown, TN",TN,High (40-49%),34100.0,699.0
+299,"Morristown, TN Metro Area",15729,1271,947,1249,3039,803,52913,34100,6506,3039,41.36,19.32,"Morristown, TN",TN,High (40-49%),34100.0,763.0
+300,"Mount Vernon-Anacortes, WA Metro Area",15078,1765,824,1404,3320,1350,82029,34580,7313,3320,48.5,22.02,"Mount Vernon-Anacortes, WA",WA,High (40-49%),34580.0,1307.0
+301,"Muncie, IN Metro Area",15889,1194,901,1016,4514,841,53377,34620,7625,4514,47.99,28.41,"Muncie, IN",IN,High (40-49%),34620.0,756.0
+302,"Muskegon, MI Metro Area",15135,1077,861,1532,3377,915,61347,34740,6847,3377,45.24,22.31,"Muskegon, MI",MI,High (40-49%),34740.0,855.0
+303,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",45220,3528,3000,3539,10755,1138,63296,34820,20822,10755,46.05,23.78,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",SC,High (40-49%),34820.0,926.0
+304,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC Metro Area",45220,3528,3000,3539,10755,1138,63296,34820,20822,10755,46.05,23.78,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",SC,High (40-49%),34820.0,1062.0
+305,"Napa, CA Metro Area",17142,1616,1223,1726,4101,2037,105809,34900,8666,4101,50.55,23.92,"Napa, CA",CA,Very High (50%+),34900.0,2164.0
+306,"Naples-Marco Island, FL Metro Area",39406,3569,2844,4146,12075,1599,82011,34940,22634,12075,57.44,30.64,"Naples-Marco Island, FL",FL,Very High (50%+),34940.0,1583.0
+307,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",263142,25191,18578,22155,55674,1346,79020,34980,121598,55674,46.21,21.16,"Nashville-Davidson--Murfreesboro--Franklin, TN",TN,High (40-49%),34980.0,1253.0
+308,"New Bern, NC Metro Area",15018,1069,1112,869,3181,1027,60258,35100,6231,3181,41.49,21.18,"New Bern, NC",NC,High (40-49%),,
+309,"New Haven-Milford, CT Metro Area",130041,10046,7972,12075,33639,1339,81544,35300,63732,33639,49.01,25.87,"New Haven-Milford, CT",CT,High (40-49%),35300.0,1456.0
+310,"New Haven-Milford, CT Metro Area",130041,10046,7972,12075,33639,1339,81544,35300,63732,33639,49.01,25.87,"New Haven-Milford, CT",CT,High (40-49%),35300.0,1447.0
+311,"New Haven-Milford, CT Metro Area",130041,10046,7972,12075,33639,1339,81544,35300,63732,33639,49.01,25.87,"New Haven-Milford, CT",CT,High (40-49%),35300.0,1190.0
+312,"New Orleans-Metairie, LA Metro Area",180427,14495,10095,15177,51209,1151,62748,35380,90976,51209,50.42,28.38,"New Orleans-Metairie, LA",LA,Very High (50%+),35380.0,1089.0
+313,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1736.0
+314,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1972.0
+315,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1851.0
+316,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1558.0
+317,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,2065.0
+318,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,2340.0
+319,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1479.0
+320,"New York-Newark-Jersey City, NY-NJ-PA Metro Area",3534346,303382,217182,285723,934670,1711,93610,35620,1740957,934670,49.26,26.45,"New York-Newark-Jersey City, NY-NJ-PA",NY,High (40-49%),35620.0,1368.0
+321,"Niles, MI Metro Area",17153,1573,947,1161,4141,885,60379,35660,7822,4141,45.6,24.14,"Niles, MI",MI,High (40-49%),35660.0,845.0
+322,"North Port-Sarasota-Bradenton, FL Metro Area",88452,7511,5687,8929,23152,1500,74469,35840,45279,23152,51.19,26.17,"North Port-Sarasota-Bradenton, FL",FL,Very High (50%+),35840.0,1385.0
+323,"Norwich-New London, CT Metro Area",34727,3253,1986,2976,7397,1278,84755,35980,15612,7397,44.96,21.3,"Norwich-New London, CT",CT,High (40-49%),35980.0,1318.0
+324,"Norwich-New London, CT Metro Area",34727,3253,1986,2976,7397,1278,84755,35980,15612,7397,44.96,21.3,"Norwich-New London, CT",CT,High (40-49%),35980.0,1254.0
+325,"Ocala, FL Metro Area",36475,2924,1932,3055,8277,1092,55265,36100,16188,8277,44.38,22.69,"Ocala, FL",FL,High (40-49%),36100.0,995.0
+326,"Ocean City, NJ Metro Area",9327,624,648,879,2692,1285,83870,36140,4843,2692,51.92,28.86,"Ocean City, NJ",NJ,Very High (50%+),36140.0,1465.0
+327,"Odessa, TX Metro Area",21278,2150,984,1463,4525,1232,70566,36220,9122,4525,42.87,21.27,"Odessa, TX",TX,High (40-49%),36220.0,1229.0
+328,"Ogden-Clearfield, UT Metro Area",53153,4699,3065,4356,9600,1254,91022,36260,21720,9600,40.86,18.06,"Ogden-Clearfield, UT",UT,High (40-49%),36260.0,1105.0
+329,"Oklahoma City, OK Metro Area",199013,15878,11990,15143,43164,1017,67963,36420,86175,43164,43.3,21.69,"Oklahoma City, OK",OK,High (40-49%),36420.0,927.0
+330,"Olympia-Lacey-Tumwater, WA Metro Area",37865,4239,2255,2891,10028,1499,88895,36500,19413,10028,51.27,26.48,"Olympia-Lacey-Tumwater, WA",WA,Very High (50%+),36500.0,1273.0
+331,"Omaha-Council Bluffs, NE-IA Metro Area",128525,11216,8391,10942,25834,1101,79634,36540,56383,25834,43.87,20.1,"Omaha-Council Bluffs, NE-IA",NE,High (40-49%),36540.0,974.0
+332,"Orlando-Kissimmee-Sanford, FL Metro Area",351799,33106,26784,39476,92263,1530,71551,36740,191629,92263,54.47,26.23,"Orlando-Kissimmee-Sanford, FL",FL,Very High (50%+),36740.0,1422.0
+333,"Oshkosh-Neenah, WI Metro Area",24453,2060,1358,1909,3863,880,70041,36780,9190,3863,37.58,15.8,"Oshkosh-Neenah, WI",WI,Moderate (30-39%),36780.0,889.0
+334,"Owensboro, KY Metro Area",14501,1088,841,821,2710,874,64366,36980,5460,2710,37.65,18.69,"Owensboro, KY",KY,Moderate (30-39%),36980.0,843.0
+335,"Oxnard-Thousand Oaks-Ventura, CA Metro Area",99078,9858,7022,11154,27435,2140,102141,37100,55469,27435,55.99,27.69,"Oxnard-Thousand Oaks-Ventura, CA",CA,Very High (50%+),37100.0,2218.0
+336,"Palm Bay-Melbourne-Titusville, FL Metro Area",57547,5253,3923,5803,14278,1327,71308,37340,29257,14278,50.84,24.81,"Palm Bay-Melbourne-Titusville, FL",FL,Very High (50%+),37340.0,1196.0
+337,"Panama City, FL Metro Area",23470,2929,1849,2305,5250,1311,65999,37460,12333,5250,52.55,22.37,"Panama City, FL",FL,Very High (50%+),37460.0,1170.0
+338,"Parkersburg-Vienna, WV Metro Area",9339,784,816,1102,1512,776,54175,37620,4214,1512,45.12,16.19,"Parkersburg-Vienna, WV",WV,High (40-49%),37620.0,781.0
+339,"Pensacola-Ferry Pass-Brent, FL Metro Area",61692,4917,4809,6022,12799,1205,69374,37860,28547,12799,46.27,20.75,"Pensacola-Ferry Pass-Brent, FL",FL,High (40-49%),37860.0,1012.0
+340,"Peoria, IL Metro Area",45866,3584,2422,2994,10076,881,67718,37900,19076,10076,41.59,21.97,"Peoria, IL",IL,High (40-49%),37900.0,750.0
+341,"Peoria, IL Metro Area",45866,3584,2422,2994,10076,881,67718,37900,19076,10076,41.59,21.97,"Peoria, IL",IL,High (40-49%),37900.0,815.0
+342,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",801034,67081,47871,64507,202087,1347,85555,37980,381546,202087,47.63,25.23,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",PA,High (40-49%),37980.0,1298.0
+343,"Phoenix-Mesa-Chandler, AZ Metro Area",625339,56357,41214,56251,138041,1432,79935,38060,291863,138041,46.67,22.07,"Phoenix-Mesa-Chandler, AZ",AZ,High (40-49%),38060.0,1311.0
+344,"Pine Bluff, AR Metro Area",10080,820,756,894,1661,806,47559,38220,4131,1661,40.98,16.48,"Pine Bluff, AR",AR,High (40-49%),38220.0,760.0
+345,"Pittsburgh, PA Metro Area",303982,24085,15844,21783,59386,968,71283,38300,121098,59386,39.84,19.54,"Pittsburgh, PA",PA,Moderate (30-39%),38300.0,981.0
+346,"Pittsfield, MA Metro Area",16698,1626,1265,1120,4200,1003,69744,38340,8211,4200,49.17,25.15,"Pittsfield, MA",MA,High (40-49%),38340.0,1277.0
+347,"Pocatello, ID Metro Area",11157,648,607,815,2229,816,60704,38540,4299,2229,38.53,19.98,"Pocatello, ID",ID,Moderate (30-39%),38540.0,824.0
+348,"Pocatello, ID Metro Area",11157,648,607,815,2229,816,60704,38540,4299,2229,38.53,19.98,"Pocatello, ID",ID,Moderate (30-39%),38540.0,853.0
+349,"Portland-South Portland, ME Metro Area",64544,6649,4522,4315,12290,1282,84095,38860,27776,12290,43.03,19.04,"Portland-South Portland, ME",ME,High (40-49%),38860.0,1721.0
+350,"Portland-South Portland, ME Metro Area",64544,6649,4522,4315,12290,1282,84095,38860,27776,12290,43.03,19.04,"Portland-South Portland, ME",ME,High (40-49%),38860.0,1485.0
+351,"Portland-Vancouver-Hillsboro, OR-WA Metro Area",373026,32528,24911,35750,87747,1577,90451,38900,180936,87747,48.5,23.52,"Portland-Vancouver-Hillsboro, OR-WA",OR,High (40-49%),38900.0,1735.0
+352,"Port St. Lucie, FL Metro Area",42040,4258,2653,3860,11652,1366,69429,38940,22423,11652,53.34,27.72,"Port St. Lucie, FL",FL,Very High (50%+),38940.0,1275.0
+353,"Poughkeepsie-Newburgh-Middletown, NY Metro Area",78765,6839,4843,7094,21572,1462,92870,39100,40348,21572,51.23,27.39,"Poughkeepsie-Newburgh-Middletown, NY",NY,Very High (50%+),39100.0,1412.0
+354,"Prescott Valley-Prescott, AZ Metro Area",28649,1800,1733,2933,5292,1128,62430,39150,11758,5292,41.04,18.47,"Prescott Valley-Prescott, AZ",AZ,High (40-49%),,
+355,"Providence-Warwick, RI-MA Metro Area",248944,23050,14908,19264,55253,1165,81136,39300,112475,55253,45.18,22.19,"Providence-Warwick, RI-MA",RI,High (40-49%),39300.0,1114.0
+356,"Providence-Warwick, RI-MA Metro Area",248944,23050,14908,19264,55253,1165,81136,39300,112475,55253,45.18,22.19,"Providence-Warwick, RI-MA",RI,High (40-49%),39300.0,1234.0
+357,"Providence-Warwick, RI-MA Metro Area",248944,23050,14908,19264,55253,1165,81136,39300,112475,55253,45.18,22.19,"Providence-Warwick, RI-MA",RI,High (40-49%),39300.0,1433.0
+358,"Providence-Warwick, RI-MA Metro Area",248944,23050,14908,19264,55253,1165,81136,39300,112475,55253,45.18,22.19,"Providence-Warwick, RI-MA",RI,High (40-49%),39300.0,1259.0
+359,"Provo-Orem, UT Metro Area",59535,5775,3547,5227,11828,1325,91190,39340,26377,11828,44.31,19.87,"Provo-Orem, UT",UT,High (40-49%),39340.0,1041.0
+360,"Pueblo, CO Metro Area",22229,2037,1252,1669,5874,967,59436,39380,10832,5874,48.73,26.42,"Pueblo, CO",CO,High (40-49%),39380.0,1052.0
+361,"Punta Gorda, FL Metro Area",14884,1248,992,1546,4299,1206,62164,39460,8085,4299,54.32,28.88,"Punta Gorda, FL",FL,Very High (50%+),39460.0,1142.0
+362,"Racine, WI Metro Area",23759,1948,1135,1817,4893,985,72658,39540,9793,4893,41.22,20.59,"Racine, WI",WI,High (40-49%),39540.0,931.0
+363,"Raleigh-Cary, NC Metro Area",178143,16608,11204,14839,35888,1366,91818,39580,78539,35888,44.09,20.15,"Raleigh-Cary, NC",NC,High (40-49%),39580.0,1223.0
+364,"Rapid City, SD Metro Area",16906,2113,1306,1227,2599,1014,68363,39660,7245,2599,42.85,15.37,"Rapid City, SD",SD,High (40-49%),39660.0,915.0
+365,"Reading, PA Metro Area",47009,4199,2726,4571,10275,1078,74617,39740,21771,10275,46.31,21.86,"Reading, PA",PA,High (40-49%),39740.0,1038.0
+366,"Redding, CA Metro Area",24850,2113,1388,1898,5978,1232,68347,39820,11377,5978,45.78,24.06,"Redding, CA",CA,High (40-49%),39820.0,1255.0
+367,"Reno, NV Metro Area",79800,7549,5565,8124,17091,1400,81576,39900,38329,17091,48.03,21.42,"Reno, NV",NV,High (40-49%),39900.0,1394.0
+368,"Richmond, VA Metro Area",171512,15819,11664,14411,40333,1307,80877,40060,82227,40333,47.94,23.52,"Richmond, VA",VA,High (40-49%),40060.0,718.0
+369,"Richmond, VA Metro Area",171512,15819,11664,14411,40333,1307,80877,40060,82227,40333,47.94,23.52,"Richmond, VA",VA,High (40-49%),40060.0,1189.0
+370,"Riverside-San Bernardino-Ontario, CA Metro Area",492978,46819,34765,51788,137534,1643,81041,40140,270906,137534,54.95,27.9,"Riverside-San Bernardino-Ontario, CA",CA,Very High (50%+),40140.0,1509.0
+371,"Roanoke, VA Metro Area",40109,2759,2020,3834,7951,949,65687,40220,16564,7951,41.3,19.82,"Roanoke, VA",VA,High (40-49%),40220.0,879.0
+372,"Rochester, MN Metro Area",23496,2560,1625,1420,4697,1115,86788,40340,10302,4697,43.85,19.99,"Rochester, MN",MN,High (40-49%),40340.0,1094.0
+373,"Rochester, NY Metro Area",146380,12720,8620,11949,37430,1056,71349,40380,70719,37430,48.31,25.57,"Rochester, NY",NY,High (40-49%),40380.0,1039.0
+374,"Rockford, IL Metro Area",42628,3461,2190,3726,9879,941,63834,40420,19256,9879,45.17,23.17,"Rockford, IL",IL,High (40-49%),40420.0,836.0
+375,"Rocky Mount, NC Metro Area",20627,1597,1338,1298,4109,852,53553,40580,8342,4109,40.44,19.92,"Rocky Mount, NC",NC,High (40-49%),40580.0,813.0
+376,"Rome, GA Metro Area",13279,993,873,1327,2776,890,57868,40660,5969,2776,44.95,20.91,"Rome, GA",GA,High (40-49%),40660.0,864.0
+377,"Sacramento-Roseville-Folsom, CA Metro Area",329482,29014,23277,32272,87469,1633,89227,40900,172032,87469,52.21,26.55,"Sacramento-Roseville-Folsom, CA",CA,Very High (50%+),40900.0,1543.0
+378,"Sacramento-Roseville-Folsom, CA Metro Area",329482,29014,23277,32272,87469,1633,89227,40900,172032,87469,52.21,26.55,"Sacramento-Roseville-Folsom, CA",CA,Very High (50%+),40900.0,1684.0
+379,"Saginaw, MI Metro Area",21260,2234,1174,1924,5279,876,56579,40980,10611,5279,49.91,24.83,"Saginaw, MI",MI,High (40-49%),40980.0,833.0
+380,"St. Cloud, MN Metro Area",25160,1429,1347,1906,5495,956,72564,41060,10177,5495,40.45,21.84,"St. Cloud, MN",MN,High (40-49%),41060.0,886.0
+381,"St. George, UT Metro Area",17674,1679,1508,1478,3628,1321,71976,41100,8293,3628,46.92,20.53,"St. George, UT",UT,High (40-49%),41100.0,1089.0
+382,"St. Joseph, MO-KS Metro Area",15362,1347,677,918,3250,846,61030,41140,6192,3250,40.31,21.16,"St. Joseph, MO-KS",MO,High (40-49%),41140.0,824.0
+383,"St. Louis, MO-IL Metro Area",346284,26810,19930,25892,74295,1033,75316,41180,146927,74295,42.43,21.45,"St. Louis, MO-IL",MO,High (40-49%),41180.0,947.0
+384,"Salem, OR Metro Area",58447,5140,4327,4820,14673,1227,72154,41420,28960,14673,49.55,25.1,"Salem, OR",OR,High (40-49%),41420.0,1132.0
+385,"Salinas, CA Metro Area",62614,6421,4611,6242,15497,1873,91043,41500,32771,15497,52.34,24.75,"Salinas, CA",CA,Very High (50%+),41500.0,1967.0
+386,"Salisbury, MD-DE Metro Area",42856,3526,3058,3945,10236,1154,72964,41540,20765,10236,48.45,23.88,"Salisbury, MD-DE",MD,High (40-49%),41540.0,1037.0
+387,"Salt Lake City, UT Metro Area",137891,13434,8946,12460,27355,1386,90277,41620,62195,27355,45.1,19.84,"Salt Lake City, UT",UT,High (40-49%),41620.0,1327.0
+388,"San Angelo, TX Metro Area",14909,1110,1107,1462,2861,1024,66832,41660,6540,2861,43.87,19.19,"San Angelo, TX",TX,High (40-49%),41660.0,992.0
+389,"San Angelo, TX Metro Area",14909,1110,1107,1462,2861,1024,66832,41660,6540,2861,43.87,19.19,"San Angelo, TX",TX,High (40-49%),41660.0,992.0
+390,"San Antonio-New Braunfels, TX Metro Area",345256,30254,24213,31313,79082,1219,70910,41700,164862,79082,47.75,22.91,"San Antonio-New Braunfels, TX",TX,High (40-49%),41700.0,1165.0
+391,"San Diego-Chula Vista-Carlsbad, CA Metro Area",525840,48900,37001,53307,148226,2011,96974,41740,287434,148226,54.66,28.19,"San Diego-Chula Vista-Carlsbad, CA",CA,Very High (50%+),41740.0,2232.0
+392,"San Francisco-Oakland-Berkeley, CA Metro Area",768461,61754,43933,63770,172433,2336,129315,41860,341890,172433,44.49,22.44,"San Francisco-Oakland-Berkeley, CA",CA,High (40-49%),41860.0,2274.0
+393,"San Francisco-Oakland-Berkeley, CA Metro Area",768461,61754,43933,63770,172433,2336,129315,41860,341890,172433,44.49,22.44,"San Francisco-Oakland-Berkeley, CA",CA,High (40-49%),41860.0,3198.0
+394,"San Jose-Sunnyvale-Santa Clara, CA Metro Area",295566,24884,19031,23521,59497,2697,151713,41940,126933,59497,42.95,20.13,"San Jose-Sunnyvale-Santa Clara, CA",CA,High (40-49%),41940.0,2868.0
+395,"San Luis Obispo-Paso Robles, CA Metro Area",41068,3847,2794,4031,11181,1800,90158,42020,21853,11181,53.21,27.23,"San Luis Obispo-Paso Robles, CA",CA,Very High (50%+),42020.0,1890.0
+396,"Santa Cruz-Watsonville, CA Metro Area",38635,3008,2243,3181,10733,2094,104409,42100,19165,10733,49.61,27.78,"Santa Cruz-Watsonville, CA",CA,High (40-49%),42100.0,3138.0
+397,"Santa Fe, NM Metro Area",19336,1423,921,1731,4657,1252,70522,42140,8732,4657,45.16,24.08,"Santa Fe, NM",NM,High (40-49%),42140.0,1113.0
+398,"Santa Maria-Santa Barbara, CA Metro Area",69864,6462,5195,6874,19113,1964,92332,42200,37644,19113,53.88,27.36,"Santa Maria-Santa Barbara, CA",CA,Very High (50%+),42200.0,2516.0
+399,"Santa Rosa-Petaluma, CA Metro Area",72732,7163,5027,6835,18407,2029,99266,42220,37432,18407,51.47,25.31,"Santa Rosa-Petaluma, CA",CA,Very High (50%+),42220.0,2038.0
+400,"Savannah, GA Metro Area",59549,4660,4256,4796,14259,1266,70705,42340,27971,14259,46.97,23.94,"Savannah, GA",GA,High (40-49%),42340.0,1067.0
+401,"Scranton--Wilkes-Barre, PA Metro Area",76197,5539,3525,5162,16567,909,62318,42540,30793,16567,40.41,21.74,"Scranton--Wilkes-Barre, PA",PA,High (40-49%),42540.0,877.0
+402,"Seattle-Tacoma-Bellevue, WA Metro Area",619164,58468,42264,52857,132625,1850,107206,42660,286214,132625,46.23,21.42,"Seattle-Tacoma-Bellevue, WA",WA,High (40-49%),42660.0,2044.0
+403,"Seattle-Tacoma-Bellevue, WA Metro Area",619164,58468,42264,52857,132625,1850,107206,42660,286214,132625,46.23,21.42,"Seattle-Tacoma-Bellevue, WA",WA,High (40-49%),42660.0,1484.0
+404,"Sebastian-Vero Beach, FL Metro Area",13031,850,740,1157,3724,1183,67543,42680,6471,3724,49.66,28.58,"Sebastian-Vero Beach, FL",FL,High (40-49%),42680.0,1135.0
+405,"Sebring-Avon Park, FL Metro Area",9659,890,618,796,1947,919,53679,42700,4251,1947,44.01,20.16,"Sebring-Avon Park, FL",FL,High (40-49%),42700.0,933.0
+406,"Sheboygan, WI Metro Area",13883,944,549,779,2029,863,68969,43100,4301,2029,30.98,14.61,"Sheboygan, WI",WI,Moderate (30-39%),43100.0,797.0
+407,"Sherman-Denison, TX Metro Area",17130,1352,1196,1289,3531,1096,66608,43300,7368,3531,43.01,20.61,"Sherman-Denison, TX",TX,High (40-49%),43300.0,985.0
+408,"Shreveport-Bossier City, LA Metro Area",56682,4173,3563,4414,15284,956,53053,43340,27434,15284,48.4,26.96,"Shreveport-Bossier City, LA",LA,High (40-49%),43340.0,897.0
+409,"Sierra Vista-Douglas, AZ Metro Area",14798,1382,1003,1213,2356,893,58421,43420,5954,2356,40.24,15.92,"Sierra Vista-Douglas, AZ",AZ,High (40-49%),43420.0,907.0
+410,"Sioux City, IA-NE-SD Metro Area",17967,1270,867,1185,3319,924,69065,43580,6641,3319,36.96,18.47,"Sioux City, IA-NE-SD",IA,Moderate (30-39%),43580.0,870.0
+411,"Sioux Falls, SD Metro Area",37349,3005,2104,3044,5620,961,78552,43620,13773,5620,36.88,15.05,"Sioux Falls, SD",SD,Moderate (30-39%),43620.0,897.0
+412,"South Bend-Mishawaka, IN-MI Metro Area",38079,3056,2286,3284,8591,958,62448,43780,17217,8591,45.21,22.56,"South Bend-Mishawaka, IN-MI",IN,High (40-49%),43780.0,981.0
+413,"Spartanburg, SC Metro Area",34114,2840,1941,2362,7442,960,61955,43900,14585,7442,42.75,21.82,"Spartanburg, SC",SC,High (40-49%),43900.0,864.0
+414,"Spokane-Spokane Valley, WA Metro Area",81144,7807,5520,7559,18306,1112,69752,44060,39192,18306,48.3,22.56,"Spokane-Spokane Valley, WA",WA,High (40-49%),44060.0,1033.0
+415,"Springfield, IL Metro Area",26182,2128,1200,1700,5895,921,72445,44100,10923,5895,41.72,22.52,"Springfield, IL",IL,High (40-49%),44100.0,843.0
+416,"Springfield, MA Metro Area",98808,9663,6434,8431,24834,1095,70547,44140,49362,24834,49.96,25.13,"Springfield, MA",MA,High (40-49%),44140.0,1160.0
+417,"Springfield, MA Metro Area",98808,9663,6434,8431,24834,1095,70547,44140,49362,24834,49.96,25.13,"Springfield, MA",MA,High (40-49%),44140.0,1094.0
+418,"Springfield, MO Metro Area",72911,5759,4262,5848,15760,881,58291,44180,31629,15760,43.38,21.62,"Springfield, MO",MO,High (40-49%),44180.0,775.0
+419,"Springfield, OH Metro Area",17438,1503,942,1023,3204,820,58954,44220,6672,3204,38.26,18.37,"Springfield, OH",OH,Moderate (30-39%),44220.0,821.0
+420,"State College, PA Metro Area",21825,1439,1009,2098,7142,1118,70087,44300,11688,7142,53.55,32.72,"State College, PA",PA,Very High (50%+),44300.0,1212.0
+421,"Staunton, VA Metro Area",14944,986,975,1141,3308,974,67711,44420,6410,3308,42.89,22.14,"Staunton, VA",VA,High (40-49%),44420.0,917.0
+422,"Stockton, CA Metro Area",95032,9453,6537,8762,22463,1542,82837,44700,47215,22463,49.68,23.64,"Stockton, CA",CA,High (40-49%),44700.0,1305.0
+423,"Sumter, SC Metro Area",16886,1488,1105,1363,3089,927,52942,44940,7045,3089,41.72,18.29,"Sumter, SC",SC,High (40-49%),44940.0,712.0
+424,"Sumter, SC Metro Area",16886,1488,1105,1363,3089,927,52942,44940,7045,3089,41.72,18.29,"Sumter, SC",SC,High (40-49%),44940.0,851.0
+425,"Syracuse, NY Metro Area",85007,6242,5083,5951,21666,978,70096,45060,38942,21666,45.81,25.49,"Syracuse, NY",NY,High (40-49%),45060.0,966.0
+426,"Tallahassee, FL Metro Area",64643,5053,3409,6128,18944,1127,59757,45220,33534,18944,51.88,29.31,"Tallahassee, FL",FL,Very High (50%+),45220.0,1124.0
+427,"Tampa-St. Petersburg-Clearwater, FL Metro Area",423600,39039,29670,42687,106954,1377,67197,45300,218350,106954,51.55,25.25,"Tampa-St. Petersburg-Clearwater, FL",FL,Very High (50%+),45300.0,1347.0
+428,"Terre Haute, IN Metro Area",22513,1869,1340,2035,5106,833,56449,45460,10350,5106,45.97,22.68,"Terre Haute, IN",IN,High (40-49%),45460.0,767.0
+429,"Terre Haute, IN Metro Area",22513,1869,1340,2035,5106,833,56449,45460,10350,5106,45.97,22.68,"Terre Haute, IN",IN,High (40-49%),45460.0,782.0
+430,"Texarkana, TX-AR Metro Area",18920,1465,1036,1838,3920,864,53628,45500,8259,3920,43.65,20.72,"Texarkana, TX-AR",TX,High (40-49%),45500.0,838.0
+431,"The Villages, FL Metro Area",8257,499,425,1080,2213,1185,70105,45540,4217,2213,51.07,26.8,"The Villages, FL",FL,Very High (50%+),45540.0,995.0
+432,"Toledo, OH Metro Area",95327,6888,4923,6766,19903,880,61620,45780,38480,19903,40.37,20.88,"Toledo, OH",OH,High (40-49%),45780.0,785.0
+433,"Toledo, OH Metro Area",95327,6888,4923,6766,19903,880,61620,45780,38480,19903,40.37,20.88,"Toledo, OH",OH,High (40-49%),45780.0,806.0
+434,"Topeka, KS Metro Area",28749,2116,1488,2726,5964,921,65665,45820,12294,5964,42.76,20.75,"Topeka, KS",KS,High (40-49%),45820.0,844.0
+435,"Trenton-Princeton, NJ Metro Area",51914,4510,3141,4461,13043,1454,92697,45940,25155,13043,48.46,25.12,"Trenton-Princeton, NJ",NJ,High (40-49%),45940.0,1613.0
+436,"Tucson, AZ Metro Area",151698,13640,9249,13630,35088,1071,64323,46060,71607,35088,47.2,23.13,"Tucson, AZ",AZ,High (40-49%),46060.0,1001.0
+437,"Tulsa, OK Metro Area",135897,10729,8290,10341,25197,982,65784,46140,54557,25197,40.15,18.54,"Tulsa, OK",OK,High (40-49%),46140.0,925.0
+438,"Tuscaloosa, AL Metro Area",35757,2822,1768,3298,8810,944,58132,46220,16698,8810,46.7,24.64,"Tuscaloosa, AL",AL,High (40-49%),46220.0,705.0
+439,"Tuscaloosa, AL Metro Area",35757,2822,1768,3298,8810,944,58132,46220,16698,8810,46.7,24.64,"Tuscaloosa, AL",AL,High (40-49%),46220.0,927.0
+440,"Twin Falls, ID Metro Area",12388,1214,1113,789,2097,929,62912,46300,5213,2097,42.08,16.93,"Twin Falls, ID",ID,High (40-49%),,
+441,"Tyler, TX Metro Area",25423,1927,1496,2001,4942,1129,69053,46340,10366,4942,40.77,19.44,"Tyler, TX",TX,High (40-49%),46340.0,1037.0
+442,"Urban Honolulu, HI Metro Area",137316,13164,9564,14419,36746,1976,99816,46520,73893,36746,53.81,26.76,"Urban Honolulu, HI",HI,Very High (50%+),46520.0,2240.0
+443,"Utica-Rome, NY Metro Area",35706,2823,1852,2215,7846,868,66823,46540,14736,7846,41.27,21.97,"Utica-Rome, NY",NY,High (40-49%),46540.0,863.0
+444,"Valdosta, GA Metro Area",23266,2175,1492,2079,4745,931,51216,46660,10491,4745,45.09,20.39,"Valdosta, GA",GA,High (40-49%),46660.0,833.0
+445,"Vallejo, CA Metro Area",57295,5608,4096,5283,14786,1981,97037,46700,29773,14786,51.96,25.81,"Vallejo, CA",CA,Very High (50%+),46700.0,1677.0
+446,"Victoria, TX Metro Area",11730,664,732,1045,2741,1080,66105,47020,5182,2741,44.18,23.37,"Victoria, TX",TX,High (40-49%),47020.0,1068.0
+447,"Vineland-Bridgeton, NJ Metro Area",17864,1405,1002,1618,5934,1202,62310,47220,9959,5934,55.75,33.22,"Vineland-Bridgeton, NJ",NJ,Very High (50%+),47220.0,1377.0
+448,"Virginia Beach-Norfolk-Newport News, VA-NC Metro Area",262740,24199,18368,25039,61998,1341,77082,47260,129604,61998,49.33,23.6,"Virginia Beach-Norfolk-Newport News, VA-NC",VA,High (40-49%),47260.0,982.0
+449,"Visalia, CA Metro Area",58592,4474,3381,5589,13911,1137,64474,47300,27355,13911,46.69,23.74,"Visalia, CA",CA,High (40-49%),47300.0,1005.0
+450,"Waco, TX Metro Area",39586,3117,2770,3268,10549,1042,59193,47380,19704,10549,49.78,26.65,"Waco, TX",TX,High (40-49%),47380.0,915.0
+451,"Walla Walla, WA Metro Area",7778,533,715,810,1744,1044,66635,47460,3802,1744,48.88,22.42,"Walla Walla, WA",WA,High (40-49%),47460.0,1144.0
+452,"Warner Robins, GA Metro Area",23196,1935,1200,2579,4038,1059,73788,47580,9752,4038,42.04,17.41,"Warner Robins, GA",GA,High (40-49%),47580.0,974.0
+453,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",853416,75905,55794,68817,185597,1904,119803,47900,386113,185597,45.24,21.75,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,High (40-49%),47900.0,936.0
+454,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",853416,75905,55794,68817,185597,1904,119803,47900,386113,185597,45.24,21.75,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,High (40-49%),47900.0,957.0
+455,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",853416,75905,55794,68817,185597,1904,119803,47900,386113,185597,45.24,21.75,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,High (40-49%),47900.0,1031.0
+456,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",853416,75905,55794,68817,185597,1904,119803,47900,386113,185597,45.24,21.75,"Washington-Arlington-Alexandria, DC-VA-MD-WV",DC,High (40-49%),47900.0,1785.0
+457,"Waterloo-Cedar Falls, IA Metro Area",21074,1519,1357,1352,5407,916,66732,47940,9635,5407,45.72,25.66,"Waterloo-Cedar Falls, IA",IA,High (40-49%),47940.0,889.0
+458,"Watertown-Fort Drum, NY Metro Area",20976,1864,1247,1974,4037,1143,62782,48060,9122,4037,43.49,19.25,"Watertown-Fort Drum, NY",NY,High (40-49%),48060.0,1183.0
+459,"Wausau-Weston, WI Metro Area",17934,1829,1137,1618,2845,876,71675,48140,7429,2845,41.42,15.86,"Wausau-Weston, WI",WI,High (40-49%),48140.0,757.0
+460,"Wausau-Weston, WI Metro Area",17934,1829,1137,1618,2845,876,71675,48140,7429,2845,41.42,15.86,"Wausau-Weston, WI",WI,High (40-49%),48140.0,838.0
+461,"Weirton-Steubenville, WV-OH Metro Area",13662,912,553,902,2661,720,54142,48260,5028,2661,36.8,19.48,"Weirton-Steubenville, WV-OH",WV,Moderate (30-39%),48260.0,738.0
+462,"Wenatchee, WA Metro Area",15770,1014,720,1109,2745,1156,75185,48300,5588,2745,35.43,17.41,"Wenatchee, WA",WA,Moderate (30-39%),48300.0,1126.0
+463,"Wheeling, WV-OH Metro Area",14603,1177,739,946,3081,765,56691,48540,5943,3081,40.7,21.1,"Wheeling, WV-OH",WV,High (40-49%),48540.0,762.0
+464,"Wichita, KS Metro Area",87340,7283,4932,6745,16942,931,66643,48620,35902,16942,41.11,19.4,"Wichita, KS",KS,High (40-49%),48620.0,823.0
+465,"Wichita Falls, TX Metro Area",20464,1422,1418,1493,3653,929,60641,48660,7986,3653,39.02,17.85,"Wichita Falls, TX",TX,Moderate (30-39%),48660.0,878.0
+466,"Williamsport, PA Metro Area",13764,1455,656,1074,2623,886,63437,48700,5808,2623,42.2,19.06,"Williamsport, PA",PA,High (40-49%),48700.0,885.0
+467,"Wilmington, NC Metro Area",44566,3913,2596,4031,11393,1235,68845,48900,21933,11393,49.21,25.56,"Wilmington, NC",NC,High (40-49%),48900.0,1164.0
+468,"Winchester, VA-WV Metro Area",15357,1482,1028,957,2702,1246,79416,49020,6169,2702,40.17,17.59,"Winchester, VA-WV",VA,High (40-49%),49020.0,1117.0
+469,"Winston-Salem, NC Metro Area",87505,7394,5271,6339,18907,912,60145,49180,37911,18907,43.32,21.61,"Winston-Salem, NC",NC,High (40-49%),49180.0,808.0
+470,"Worcester, MA-CT Metro Area",126746,12523,7758,10102,27763,1241,86708,49340,58146,27763,45.88,21.9,"Worcester, MA-CT",MA,High (40-49%),49340.0,1397.0
+471,"Worcester, MA-CT Metro Area",126746,12523,7758,10102,27763,1241,86708,49340,58146,27763,45.88,21.9,"Worcester, MA-CT",MA,High (40-49%),49340.0,1146.0
+472,"Worcester, MA-CT Metro Area",126746,12523,7758,10102,27763,1241,86708,49340,58146,27763,45.88,21.9,"Worcester, MA-CT",MA,High (40-49%),49340.0,1491.0
+473,"Yakima, WA Metro Area",32234,2604,2004,1976,6644,1010,64910,49420,13228,6644,41.04,20.61,"Yakima, WA",WA,High (40-49%),49420.0,1050.0
+474,"York-Hanover, PA Metro Area",43622,3951,2887,4161,8776,1094,79183,49620,19775,8776,45.33,20.12,"York-Hanover, PA",PA,High (40-49%),49620.0,1024.0
+475,"Youngstown-Warren-Boardman, OH-PA Metro Area",66232,4622,3767,6057,13791,754,54650,49660,28237,13791,42.63,20.82,"Youngstown-Warren-Boardman, OH-PA",OH,High (40-49%),49660.0,757.0
+476,"Youngstown-Warren-Boardman, OH-PA Metro Area",66232,4622,3767,6057,13791,754,54650,49660,28237,13791,42.63,20.82,"Youngstown-Warren-Boardman, OH-PA",OH,High (40-49%),49660.0,738.0
+477,"Yuba City, CA Metro Area",24000,2597,1449,2554,4862,1218,70176,49700,11462,4862,47.76,20.26,"Yuba City, CA",CA,High (40-49%),49700.0,1173.0
+478,"Yuma, AZ Metro Area",23103,2270,2094,1262,4474,950,56439,49740,10100,4474,43.72,19.37,"Yuma, AZ",AZ,High (40-49%),49740.0,968.0
