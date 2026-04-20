@@ -1,4 +1,4 @@
-# Zoning and Affordability
+# Zoning and Rent Burdens
 
 This repo is an analysis of how zoning laws in metropolitan areas in the United States, using Census ACS data, TIGER/Line Shapefiles, HUD Fair Market Rents, and the Wharton Residential Land Use Regulatory Index (WRLURI), affects rent burdens in these areas
 
