@@ -14,7 +14,7 @@ API for American Community Survey (ACS): <https://api.census.gov/data/key_signup
 
 TIGER/Line Data (Year:2021, Layer Types: Core Based Statistical Area and States (and equivilant): <https://www.census.gov/cgi-bin/geo/shapefiles/index.php>
 
-HUD Api (Comprehensive Housing Affordability Strategy (CHAS)): <https://www.huduser.gov/portal/dataset/fmr-api.html>
+HUD API (Comprehensive Housing Affordability Strategy (CHAS)): <https://www.huduser.gov/portal/dataset/fmr-api.html>
 
 Wharton Residential Land Use Regulatory Index (WRLURI): <https://www.dropbox.com/scl/fi/ekxan963skmr436rov9j4/WHARTON-LAND-REGULATION-DATA_01_15_2020.dta?rlkey=aqdccswzltbp7w0fxzayh33nz&e=1&st=y45a71ys&dl=0>
 
