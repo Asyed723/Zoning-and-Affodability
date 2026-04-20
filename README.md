@@ -30,11 +30,11 @@ The order to run the scripts is:
 
 2.  cleaning_data.py
 
-    This script wrangles the data for easier use. This merges the HUD and ACS data for easier use. Categories are also made and applied to each metro area left after merging. Also, prints some helpful information about some of the most rent burdened cities.
+    This script wrangles the data for easier use. This merges the HUD and ACS data for easier use. Categories are also made and applied to each metro area left after merging describing rent burden. Also, prints some helpful information about some of the most rent burdened cities.
 
 3.  model.py
 
-    This script creates the underlying models used for the next script. Creates a multivariable regression as well as a proxy for a tax paid by renters as a result from zoning regulations.
+    This script creates the underlying models used for the next script. The script calculates a 'tax' based on how much prices increase from zoning. It also creates a welfare loss index that measures the welfare loss from zoning regulations. Creates a multivariable regression as well as a proxy for a tax paid by renters as a result from zoning regulations.
 
 4.  figure.py
 
@@ -42,17 +42,17 @@ The order to run the scripts is:
 
 ## Key Findings
 
-Many Metro areas in the U.S. create a 'tax' with their zoning laws. Places like Miami create a huge welfare loss for renters in the metro area as their zoning regulations is associated with more renters being burdened by their rent.
+Many metropolitan areas in the U.S. create a 'tax' with their zoning laws. Places like Miami create a huge welfare loss for renters in the metro area as their zoning regulations is associated with more renters being burdened by their rent. This leads to a welfare loss in the renting market. There could be more rent households with lower prices with different zoning regulation. 
 
-Regression analysis shows the variables chosen, WRLURI, log of total renter households, percentage of severely burdened renters, and zoning tax percentage, can can explain their association of higher percentage of renters burdened by their rent.
+Regression analysis shows the variables chosen, WRLURI, log of total renter households, percentage of severely burdened renters, and zoning tax percentage, can can explain their association of higher percentage of renters burdened by their rent. A strong R^2 backs the variables being associated with explaining the change in the percent of people burdened by their rent. 
 
-Using all the data collected, a supply and demand diagram was created. This diagram shows the dead weight loss created by strict zoning laws in metro areas. As well the effect of the 'tax' zoning laws create, pushing the supply curve up. This causes the equilibrium for the price of rent and quantity of renter households to be greater compared to the no zoning tax equilibrium.
+Using all the data collected, a supply and demand diagram was created. This diagram shows the dead weight loss created by strict zoning laws in metro areas. As well the effect of the 'tax' zoning laws create, shifting the supply curve up. This causes the equilibrium for the price of rent and quantity of renter households to be greater compared to the no zoning tax equilibrium. 
 
 Zoning laws can be helpful tools to help design cities and keep neighborhoods safe from things like pollution. However, restrictive zoning laws can be a big burden on rent prices and cause renters to be more burdened with rent than they would be otherwise.
 
 ## Notes
 
-Assumptions were made with how much more renters were willing to pay or underpay for a fair market value household. More research into this data would help this analysis greatly.
+Assumptions were made with how much more renters were willing to overpay or underpay for a fair market value household. More research into this data would help this analysis greatly.
 
 Multi-state metro areas are assigned to the primary (first-listed) state. For example Washington-Arlington-Alexandria is listed in the District of Colombia as opposed to being in Virginia or other states the metro area lies in.
 
